@@ -1,5 +1,10 @@
 import json
 import math
+from mpl_toolkits import mplot3d
+import numpy as np
+import matplotlib
+matplotlib.use('WebAgg') 
+import matplotlib.pyplot as plt
 
 # Open and read the JSON file
 with open('coordinates.json', 'r') as file:
@@ -23,4 +28,17 @@ def convertSphericalToCartesianCoordinates(coordinate):
 
 cartesianCoordinates = list(map(convertSphericalToCartesianCoordinates, sphericalCoordinates))
 
-print(cartesianCoordinates)
+# Creating figure
+fig = plt.figure(figsize = (10, 7))
+ax = plt.axes(projection ="3d")
+
+x = list(map(lambda obj: obj["x"], cartesianCoordinates))
+y = list(map(lambda obj: obj["y"], cartesianCoordinates))
+z = list(map(lambda obj: obj["z"], cartesianCoordinates))
+
+# Creating plot
+ax.scatter3D(x, y, z, color = "green")
+plt.title("simple 3D scatter plot")
+ 
+# show plot
+plt.show()
