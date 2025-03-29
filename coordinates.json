@@ -1,0 +1,1227 @@
+{
+    "name": "3dtest",
+    "customCoordinates": [
+      {
+        "lat": -0.6257626215198571,
+        "lng": -47.36384139644922,
+        "heading": 51.549355,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "mDDT5Sr8_Zoiw24yfJzY7A",
+          "panoDate": "2024-12"
+        }
+      },
+      {
+        "lat": -1.854028801878535,
+        "lng": -45.026083976515544,
+        "heading": 63.909725,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "fave0DRss-lIZQWE3ifw9A",
+          "panoDate": "2024-11"
+        }
+      },
+      {
+        "lat": -2.8792588923664155,
+        "lng": -41.66798668068246,
+        "heading": 66.34459,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "alzPc6D1Gikf-1cnbrOKZg",
+          "panoDate": "2012-02"
+        }
+      },
+      {
+        "lat": -2.965914267025673,
+        "lng": -39.8967758420805,
+        "heading": 136.22417,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "IDIr1tWgoNukOf-GTc14Cw",
+          "panoDate": "2024-08"
+        }
+      },
+      {
+        "lat": -3.95209019518886,
+        "lng": -38.27312289748317,
+        "heading": 329.0942,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "vPvNvldWDS_z39E97Umjfw",
+          "panoDate": "2012-08"
+        }
+      },
+      {
+        "lat": -4.966334586548646,
+        "lng": -36.89344238115306,
+        "heading": 74.31873,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "tiYycHgwwUmpAKDjMZEqhQ",
+          "panoDate": "2012-11"
+        }
+      },
+      {
+        "lat": -5.969836287530386,
+        "lng": -35.12798112000961,
+        "heading": 139.15015,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "62Ht38dCQvW0bRv_G-Sgaw",
+          "panoDate": "2022-12"
+        }
+      },
+      {
+        "lat": -7.333616316859624,
+        "lng": -34.7954302287603,
+        "heading": 203.22589,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "B4Lgy7tiuQ9GSAc6IgmVAA",
+          "panoDate": "2021-10"
+        }
+      },
+      {
+        "lat": -9.215300207801711,
+        "lng": -35.331430278574,
+        "heading": 350.2555,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "UNyhvHSlRB0CyUcj87YyMg",
+          "panoDate": "2021-11"
+        }
+      },
+      {
+        "lat": -10.476156121144642,
+        "lng": -36.42598594971715,
+        "heading": 87.859184,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "KeTkf2s_LlCdVWgmwfrohQ",
+          "panoDate": "2015-06"
+        }
+      },
+      {
+        "lat": -11.80565134005951,
+        "lng": -37.5443329231829,
+        "heading": 115.11648,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "lsOklvHzQIQg938vdwqJSw",
+          "panoDate": "2024-10"
+        }
+      },
+      {
+        "lat": -13.010723151080798,
+        "lng": -38.532504201499634,
+        "heading": 6.471733,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "H8K_J20Xpb4vpgrUhnSEqw",
+          "panoDate": "2019-01"
+        }
+      },
+      {
+        "lat": -13.889616357349196,
+        "lng": -38.949733907458075,
+        "heading": 223.48097,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "eFoHP29ODWl2prE8D-aGIw",
+          "panoDate": "2018-12"
+        }
+      },
+      {
+        "lat": -15.067883130227896,
+        "lng": -39.00078261623284,
+        "heading": 107.19542,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "931l7vmoZH2Yl3kVxKlU3Q",
+          "panoDate": "2012-01"
+        }
+      },
+      {
+        "lat": -16.58981320863978,
+        "lng": -39.1323286733587,
+        "heading": 265.2017,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "SVvRppHkKTRp3dje_6WEiQ",
+          "panoDate": "2022-06"
+        }
+      },
+      {
+        "lat": -17.95412499903471,
+        "lng": -39.45841790412869,
+        "heading": 222.81435,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "6UTShsOTOaMHFotzy7Kewg",
+          "panoDate": "2024-03"
+        }
+      },
+      {
+        "lat": -20.04890245927159,
+        "lng": -40.18999475696996,
+        "heading": 19.619736,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "GNsY2KphPM___MhhHBU0aA",
+          "panoDate": "2011-09"
+        }
+      },
+      {
+        "lat": -21.317519537932466,
+        "lng": -41.04379878272962,
+        "heading": 266.22247,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "TODyZFvBWFph4DHiLIgXYQ",
+          "panoDate": "2022-07"
+        }
+      },
+      {
+        "lat": -22.01316795336004,
+        "lng": -41.008787670995304,
+        "heading": 142.6858,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "cmAjGbM2exNGiyCM9eF9_w",
+          "panoDate": "2023-06"
+        }
+      },
+      {
+        "lat": -22.974143017738637,
+        "lng": -43.04290249123042,
+        "heading": 59.660152,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "TPnn3ysYABH4JUkF3EqJEQ",
+          "panoDate": "2015-06"
+        }
+      },
+      {
+        "lat": -23.475492527062528,
+        "lng": -45.13972051923184,
+        "heading": 349.44128,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "l9_2awTIw60Ksvzlqqag8g",
+          "panoDate": "2011-08"
+        }
+      },
+      {
+        "lat": -24.240934060141317,
+        "lng": -46.88966372924288,
+        "heading": 217.59924,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "wQqdm3feVkrLmQjab2jxLw",
+          "panoDate": "2023-04"
+        }
+      },
+      {
+        "lat": -25.97106311096631,
+        "lng": -48.597101620260545,
+        "heading": 11.250746,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "OyyS9LZmChSCyAq5YaTXqA",
+          "panoDate": "2011-09"
+        }
+      },
+      {
+        "lat": -27.005084113167875,
+        "lng": -48.60375863205613,
+        "heading": 63.63307,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "l6Zq3aOJYe_OQj92Fnkigw",
+          "panoDate": "2024-06"
+        }
+      },
+      {
+        "lat": -28.49487678233955,
+        "lng": -48.74842397056963,
+        "heading": 262.37506,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "AqNQ1Ig2cejzg7Vw6OWiJw",
+          "panoDate": "2017-12"
+        }
+      },
+      {
+        "lat": -29.38524933404349,
+        "lng": -49.83490644629884,
+        "heading": 220.7447,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "ukvjTp5mZWFf4yBi8jVYEQ",
+          "panoDate": "2017-08"
+        }
+      },
+      {
+        "lat": -30.185895111592025,
+        "lng": -50.20608910804039,
+        "heading": 19.978012,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "xQwsCVoOdmGHcL0Yd6mZeg",
+          "panoDate": "2011-11"
+        }
+      },
+      {
+        "lat": -31.421719424319182,
+        "lng": -51.17987200846605,
+        "heading": 41.147713,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "TR6sdCfQ2iSo0lL4MbL0iw",
+          "panoDate": "2011-09"
+        }
+      },
+      {
+        "lat": -33.957578833693496,
+        "lng": -53.640252937507135,
+        "heading": 138.942,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "FZwc4SljIMuzUavRWdQCSw",
+          "panoDate": "2015-09"
+        }
+      },
+      {
+        "lat": -34.89151572825263,
+        "lng": -55.21511439379197,
+        "heading": 251.24707,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "X39FKH6s4Yx0cdWMyFVxWw",
+          "panoDate": "2015-09"
+        }
+      },
+      {
+        "lat": -34.4441000417888,
+        "lng": -57.07226199762913,
+        "heading": 146.75055,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "URyBqBu1Nm-wNIvyTP3oqQ",
+          "panoDate": "2015-10"
+        }
+      },
+      {
+        "lat": -35.39567329374725,
+        "lng": -57.31730155703627,
+        "heading": 7.589532,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "TSHew3idS14xFGNCCUj22g",
+          "panoDate": "2015-09"
+        }
+      },
+      {
+        "lat": -36.47365366803155,
+        "lng": -56.714182382151954,
+        "heading": 79.69965,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "QZH9mzNkVdo05xmfSu9Ygg",
+          "panoDate": "2013-11"
+        }
+      },
+      {
+        "lat": -37.87914331893287,
+        "lng": -57.5171666739446,
+        "heading": 18.913733,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": "GaOiHXphocCutl9D9aC19w",
+        "countryCode": null,
+        "stateCode": null,
+        "extra": { "tags": [], "panoDate": "2015-03" }
+      },
+      {
+        "lat": -38.69832847558198,
+        "lng": -60.08352273491115,
+        "heading": 265.67014,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "jk3bUMUze8zwz-wa2BEcgA",
+          "panoDate": "2024-12"
+        }
+      },
+      {
+        "lat": -38.87427763501364,
+        "lng": -61.655280893629374,
+        "heading": 131.28038,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "bWUNQyK2uxyyySTUYxyaDg",
+          "panoDate": "2024-11"
+        }
+      },
+      {
+        "lat": -41.00260386329121,
+        "lng": -62.83108404944411,
+        "heading": 334.80356,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "7He2M6pQaIK-LiL-jqt8aA",
+          "panoDate": "2024-05"
+        }
+      },
+      {
+        "lat": -41.69697153687955,
+        "lng": -65.11227332131753,
+        "heading": 269.1623,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "CsjAoyG3hag-WRKFPenq3w",
+          "panoDate": "2014-12"
+        }
+      },
+      {
+        "lat": -42.47839087539179,
+        "lng": -63.615013144863276,
+        "heading": 355.97183,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "QLkK9UAS0RsxIcNMnB15Yg",
+          "panoDate": "2014-03"
+        }
+      },
+      {
+        "lat": -43.21468270301905,
+        "lng": -64.90274547786838,
+        "heading": 0.001,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": "CAoSF0NJSE0wb2dLRUlDQWdJRHFqYmo4bEFF",
+        "countryCode": null,
+        "stateCode": null,
+        "extra": { "tags": [], "panoDate": "2017-08" }
+      },
+      {
+        "lat": -44.32586312478415,
+        "lng": -65.26164737010463,
+        "heading": 345.24448,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "tYhnZwd-I2-8O5jhcBj9qw",
+          "panoDate": "2024-09"
+        }
+      },
+      {
+        "lat": -45.22052784839534,
+        "lng": -66.82626241606634,
+        "heading": 54.029663,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "pqP2y6uDPo9t2WWmcczz2g",
+          "panoDate": "2014-02"
+        }
+      },
+      {
+        "lat": -45.94479698514528,
+        "lng": -67.5970573001063,
+        "heading": 121.07672,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "Jq0oWrt-feTFORkuG2WJkA",
+          "panoDate": "2024-12"
+        }
+      },
+      {
+        "lat": -46.748438580072644,
+        "lng": -67.38266608038049,
+        "heading": 163.4708,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "sMkaQSwOZV8akkPqUu63DA",
+          "panoDate": "2018-12"
+        }
+      },
+      {
+        "lat": -47.252133466085056,
+        "lng": -65.83676415254509,
+        "heading": 55.82059,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "rsqRHDiZ55sazSqUv55qpg",
+          "panoDate": "2014-05"
+        }
+      },
+      {
+        "lat": -49.298431906785275,
+        "lng": -67.73763667465069,
+        "heading": 206.95865,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "SDtL91WU67kv9l65ishErg",
+          "panoDate": "2015-11"
+        }
+      },
+      {
+        "lat": -50.0195434425055,
+        "lng": -68.51079875941375,
+        "heading": 165.79074,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "kKh54tXL91NdJiuXg1uU8A",
+          "panoDate": "2015-11"
+        }
+      },
+      {
+        "lat": -52.20761857681662,
+        "lng": -68.90286782744417,
+        "heading": 107.68401,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "yqJYFf0UPHj3BNRvxoizbg",
+          "panoDate": "2014-11"
+        }
+      },
+      {
+        "lat": -51.921012089670754,
+        "lng": -72.0929399708455,
+        "heading": 161.77557,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "UPhltqQc0QZ41M_MQxpfvQ",
+          "panoDate": "2014-12"
+        }
+      },
+      {
+        "lat": -49.968433893583715,
+        "lng": -73.1363570798362,
+        "heading": 36.00335,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "XAUeItUrr_330F3upGE9YQ",
+          "panoDate": "2015-12"
+        }
+      },
+      {
+        "lat": -47.870628153358425,
+        "lng": -73.31513418188871,
+        "heading": 201.07039,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "13KB9nrmJTcJLPsGQ0XFgQ",
+          "panoDate": "2014-05"
+        }
+      },
+      {
+        "lat": -43.89456355377014,
+        "lng": -72.88825352018813,
+        "heading": 282.15018,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "-CDUKHd2HF5b6Yqu2sPPKA",
+          "panoDate": "2014-03"
+        }
+      },
+      {
+        "lat": -41.03400149231164,
+        "lng": -73.48492569666574,
+        "heading": 103.73064,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "zBW3lc0jK80z1hDuMcU4JQ",
+          "panoDate": "2024-07"
+        }
+      },
+      {
+        "lat": -38.898721386706036,
+        "lng": -73.25610443318058,
+        "heading": 14.553579,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "xyxzhEv_OKeGHI3ar7TF5A",
+          "panoDate": "2022-02"
+        }
+      },
+      {
+        "lat": -36.96416777523871,
+        "lng": -73.16986200391788,
+        "heading": 25.276209,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "k0DPxxB9t78RjM3Ny0zP3A",
+          "panoDate": "2022-07"
+        }
+      },
+      {
+        "lat": -35.00369566627411,
+        "lng": -72.04237585167868,
+        "heading": 48.729225,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "4PMH7aa0WwVoJkkPvE7AXg",
+          "panoDate": "2024-02"
+        }
+      },
+      {
+        "lat": -33.11399606372427,
+        "lng": -71.70840601609902,
+        "heading": 141.3884,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "GfY0q_0X0G-wR6zzL4_Fjw",
+          "panoDate": "2023-05"
+        }
+      },
+      {
+        "lat": -30.569739865548645,
+        "lng": -71.601648257062,
+        "heading": 282.04132,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "oFqZw3xsDHney47Y2-oHIg",
+          "panoDate": "2013-04"
+        }
+      },
+      {
+        "lat": -27.77890690826235,
+        "lng": -71.00476266841,
+        "heading": 44.400578,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "aeP80nJm7777tooUYwOL1Q",
+          "panoDate": "2024-03"
+        }
+      },
+      {
+        "lat": -26.334568607258447,
+        "lng": -70.60638471918591,
+        "heading": 97.48687,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "Y1fwOof71KpPQhgoNNRleQ",
+          "panoDate": "2024-05"
+        }
+      },
+      {
+        "lat": -23.709008146285157,
+        "lng": -70.43004239308708,
+        "heading": 348.90378,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "Bnpzui8Kg0t2rcZYEZ-1lA",
+          "panoDate": "2012-07"
+        }
+      },
+      {
+        "lat": -20.65421793324241,
+        "lng": -70.18075230432652,
+        "heading": 359.9496,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "uSdNvx36rVKEdZxkO3vyqA",
+          "panoDate": "2024-12"
+        }
+      },
+      {
+        "lat": -17.69134296639256,
+        "lng": -71.35754001533351,
+        "heading": 267.95517,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "ohij_nG1gYl5qCumhIvErg",
+          "panoDate": "2013-04"
+        }
+      },
+      {
+        "lat": -16.022963000318942,
+        "lng": -74.01227576994823,
+        "heading": 310.4603,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "d7CG0YzaoSm1DUFkgMEo_w",
+          "panoDate": "2022-09"
+        }
+      },
+      {
+        "lat": -12.679437908536,
+        "lng": -76.65406732622772,
+        "heading": 19.756815,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "HbT7-gApGacVSTdYdXX8uA",
+          "panoDate": "2013-03"
+        }
+      },
+      {
+        "lat": -10.767094524332666,
+        "lng": -77.74999725801838,
+        "heading": 336.4557,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "S4zQaw8NdsAT8HMZV3xCwA",
+          "panoDate": "2014-07"
+        }
+      },
+      {
+        "lat": -7.924616144703071,
+        "lng": -79.17530122104223,
+        "heading": 252.26105,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "b2ECqH8nXzREhHGoHnK0zA",
+          "panoDate": "2023-10"
+        }
+      },
+      {
+        "lat": -5.522164005015868,
+        "lng": -80.81662951612192,
+        "heading": 359.53433,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "EF8PkAsL0qSGdy-WPh1h-w",
+          "panoDate": "2022-09"
+        }
+      },
+      {
+        "lat": -3.501623703424537,
+        "lng": -80.39419418048884,
+        "heading": 65.92146,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "_6RhxufcvdvOqhqwZgJWxQ",
+          "panoDate": "2013-04"
+        }
+      },
+      {
+        "lat": -0.9492906124244869,
+        "lng": -80.75408966770786,
+        "heading": 19.027952,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "DVvEM2-nDAowcKRBS8hV8A",
+          "panoDate": "2015-02"
+        }
+      },
+      {
+        "lat": 0.9936333943471846,
+        "lng": -79.54943983201855,
+        "heading": 245.41684,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "IeEnDKL-trBmKbEcs9GnCw",
+          "panoDate": "2015-04"
+        }
+      },
+      {
+        "lat": 3.8851740247244164,
+        "lng": -77.04459018581711,
+        "heading": 116.68001,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "xAC17GvmQQ2qAYVNBp0VRg",
+          "panoDate": "2013-09"
+        }
+      },
+      {
+        "lat": 5.424946447906894,
+        "lng": -76.62657971132262,
+        "heading": 359.09332,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "aK2tvCw9YcyTc9naFNOOLA",
+          "panoDate": "2021-06"
+        }
+      },
+      {
+        "lat": 7.5109013877745685,
+        "lng": -76.58720676396506,
+        "heading": 315.75992,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "nLrKQbadgceskzxbfWp2mw",
+          "panoDate": "2024-05"
+        }
+      },
+      {
+        "lat": 9.149857163384242,
+        "lng": -76.11842171200591,
+        "heading": 185.41573,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "N9PfeENoJeI82jJsr25gaw",
+          "panoDate": "2023-07"
+        }
+      },
+      {
+        "lat": 10.834443589579378,
+        "lng": -75.14198999664,
+        "heading": 202.96608,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "msVQvcOoDn7v7jCEn1zSXQ",
+          "panoDate": "2022-09"
+        }
+      },
+      {
+        "lat": 11.249301887454047,
+        "lng": -73.80942388194158,
+        "heading": 270.49576,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "sGVa4DuJxWT6Y4F4GQqguQ",
+          "panoDate": "2022-08"
+        }
+      },
+      {
+        "lat": 11.449757401801666,
+        "lng": -72.5642406940071,
+        "heading": 102.671165,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "XmpMNPigvgra96NCTiv0zA",
+          "panoDate": "2022-08"
+        }
+      },
+      {
+        "lat": 12.209052124801847,
+        "lng": -71.84660077356797,
+        "heading": 205.33878,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "oi4fulpBtouGDDpTjrAPgg",
+          "panoDate": "2013-12"
+        }
+      },
+      {
+        "lat": 3.8191601211462647,
+        "lng": -51.790544634396674,
+        "heading": 315.67145,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "3mKfBcTocvtfZIl9g4vP0w",
+          "panoDate": "2022-10"
+        }
+      },
+      {
+        "lat": 2.5551822225556573,
+        "lng": -51.31165715515242,
+        "heading": 144.0781,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "ATHdGElRVgFOfcLGexqJIQ",
+          "panoDate": "2022-10"
+        }
+      },
+      {
+        "lat": 1.5920493026280411,
+        "lng": -50.900994620151515,
+        "heading": 158.08167,
+        "pitch": 0,
+        "zoom": 0,
+        "panoId": null,
+        "countryCode": null,
+        "stateCode": null,
+        "extra": {
+          "tags": [],
+          "panoId": "nyM9OyMG63ftZJMJ3SlKSg",
+          "panoDate": "2022-10"
+        }
+      }
+    ]
+}
