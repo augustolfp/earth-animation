@@ -1,0 +1,8 @@
+// README at: https://github.com/devcontainers/templates/tree/main/src/anaconda
+{
+    "name": "Ambiente Anaconda",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "remoteUser": "root"
+}

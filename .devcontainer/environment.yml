@@ -1,0 +1,7 @@
+# Esse arquivo contém as configurações particulares para o Anaconda. É importado para o container durante a criação, para ser lido e poder instalar as extensões:
+name: my_env
+channels:
+    - defaults
+dependencies:
+    - numpy
+    - pandas
