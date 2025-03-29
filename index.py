@@ -21,7 +21,7 @@ sphericalCoordinates = list(map(convertToSphericalCoordinates, data["customCoord
 
 def convertSphericalToCartesianCoordinates(coordinate):
     return {
-        "x": math.sin(coordinate["phi"]) * math.cos(coordinate["theta"]) * coordinate["rho"],
+        "x": math.cos(coordinate["phi"]) * math.cos(coordinate["theta"]) * coordinate["rho"],
         "y": math.cos(coordinate["phi"]) * math.sin(coordinate["theta"]) * coordinate["rho"],
         "z": math.sin(coordinate["phi"]) * coordinate["rho"]
     }
