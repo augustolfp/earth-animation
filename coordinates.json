@@ -1,1227 +1,5672 @@
-{
-    "name": "3dtest",
-    "customCoordinates": [
-      {
-        "lat": -0.6257626215198571,
-        "lng": -47.36384139644922,
-        "heading": 51.549355,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "mDDT5Sr8_Zoiw24yfJzY7A",
-          "panoDate": "2024-12"
-        }
-      },
-      {
-        "lat": -1.854028801878535,
-        "lng": -45.026083976515544,
-        "heading": 63.909725,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "fave0DRss-lIZQWE3ifw9A",
-          "panoDate": "2024-11"
-        }
-      },
-      {
-        "lat": -2.8792588923664155,
-        "lng": -41.66798668068246,
-        "heading": 66.34459,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "alzPc6D1Gikf-1cnbrOKZg",
-          "panoDate": "2012-02"
-        }
-      },
-      {
-        "lat": -2.965914267025673,
-        "lng": -39.8967758420805,
-        "heading": 136.22417,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "IDIr1tWgoNukOf-GTc14Cw",
-          "panoDate": "2024-08"
-        }
-      },
-      {
-        "lat": -3.95209019518886,
-        "lng": -38.27312289748317,
-        "heading": 329.0942,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "vPvNvldWDS_z39E97Umjfw",
-          "panoDate": "2012-08"
-        }
-      },
-      {
-        "lat": -4.966334586548646,
-        "lng": -36.89344238115306,
-        "heading": 74.31873,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "tiYycHgwwUmpAKDjMZEqhQ",
-          "panoDate": "2012-11"
-        }
-      },
-      {
-        "lat": -5.969836287530386,
-        "lng": -35.12798112000961,
-        "heading": 139.15015,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "62Ht38dCQvW0bRv_G-Sgaw",
-          "panoDate": "2022-12"
-        }
-      },
-      {
-        "lat": -7.333616316859624,
-        "lng": -34.7954302287603,
-        "heading": 203.22589,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "B4Lgy7tiuQ9GSAc6IgmVAA",
-          "panoDate": "2021-10"
-        }
-      },
-      {
-        "lat": -9.215300207801711,
-        "lng": -35.331430278574,
-        "heading": 350.2555,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "UNyhvHSlRB0CyUcj87YyMg",
-          "panoDate": "2021-11"
-        }
-      },
-      {
-        "lat": -10.476156121144642,
-        "lng": -36.42598594971715,
-        "heading": 87.859184,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "KeTkf2s_LlCdVWgmwfrohQ",
-          "panoDate": "2015-06"
-        }
-      },
-      {
-        "lat": -11.80565134005951,
-        "lng": -37.5443329231829,
-        "heading": 115.11648,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "lsOklvHzQIQg938vdwqJSw",
-          "panoDate": "2024-10"
-        }
-      },
-      {
-        "lat": -13.010723151080798,
-        "lng": -38.532504201499634,
-        "heading": 6.471733,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "H8K_J20Xpb4vpgrUhnSEqw",
-          "panoDate": "2019-01"
-        }
-      },
-      {
-        "lat": -13.889616357349196,
-        "lng": -38.949733907458075,
-        "heading": 223.48097,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "eFoHP29ODWl2prE8D-aGIw",
-          "panoDate": "2018-12"
-        }
-      },
-      {
-        "lat": -15.067883130227896,
-        "lng": -39.00078261623284,
-        "heading": 107.19542,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "931l7vmoZH2Yl3kVxKlU3Q",
-          "panoDate": "2012-01"
-        }
-      },
-      {
-        "lat": -16.58981320863978,
-        "lng": -39.1323286733587,
-        "heading": 265.2017,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "SVvRppHkKTRp3dje_6WEiQ",
-          "panoDate": "2022-06"
-        }
-      },
-      {
-        "lat": -17.95412499903471,
-        "lng": -39.45841790412869,
-        "heading": 222.81435,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "6UTShsOTOaMHFotzy7Kewg",
-          "panoDate": "2024-03"
-        }
-      },
-      {
-        "lat": -20.04890245927159,
-        "lng": -40.18999475696996,
-        "heading": 19.619736,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "GNsY2KphPM___MhhHBU0aA",
-          "panoDate": "2011-09"
-        }
-      },
-      {
-        "lat": -21.317519537932466,
-        "lng": -41.04379878272962,
-        "heading": 266.22247,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "TODyZFvBWFph4DHiLIgXYQ",
-          "panoDate": "2022-07"
-        }
-      },
-      {
-        "lat": -22.01316795336004,
-        "lng": -41.008787670995304,
-        "heading": 142.6858,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "cmAjGbM2exNGiyCM9eF9_w",
-          "panoDate": "2023-06"
-        }
-      },
-      {
-        "lat": -22.974143017738637,
-        "lng": -43.04290249123042,
-        "heading": 59.660152,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "TPnn3ysYABH4JUkF3EqJEQ",
-          "panoDate": "2015-06"
-        }
-      },
-      {
-        "lat": -23.475492527062528,
-        "lng": -45.13972051923184,
-        "heading": 349.44128,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "l9_2awTIw60Ksvzlqqag8g",
-          "panoDate": "2011-08"
-        }
-      },
-      {
-        "lat": -24.240934060141317,
-        "lng": -46.88966372924288,
-        "heading": 217.59924,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "wQqdm3feVkrLmQjab2jxLw",
-          "panoDate": "2023-04"
-        }
-      },
-      {
-        "lat": -25.97106311096631,
-        "lng": -48.597101620260545,
-        "heading": 11.250746,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "OyyS9LZmChSCyAq5YaTXqA",
-          "panoDate": "2011-09"
-        }
-      },
-      {
-        "lat": -27.005084113167875,
-        "lng": -48.60375863205613,
-        "heading": 63.63307,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "l6Zq3aOJYe_OQj92Fnkigw",
-          "panoDate": "2024-06"
-        }
-      },
-      {
-        "lat": -28.49487678233955,
-        "lng": -48.74842397056963,
-        "heading": 262.37506,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "AqNQ1Ig2cejzg7Vw6OWiJw",
-          "panoDate": "2017-12"
-        }
-      },
-      {
-        "lat": -29.38524933404349,
-        "lng": -49.83490644629884,
-        "heading": 220.7447,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "ukvjTp5mZWFf4yBi8jVYEQ",
-          "panoDate": "2017-08"
-        }
-      },
-      {
-        "lat": -30.185895111592025,
-        "lng": -50.20608910804039,
-        "heading": 19.978012,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "xQwsCVoOdmGHcL0Yd6mZeg",
-          "panoDate": "2011-11"
-        }
-      },
-      {
-        "lat": -31.421719424319182,
-        "lng": -51.17987200846605,
-        "heading": 41.147713,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "TR6sdCfQ2iSo0lL4MbL0iw",
-          "panoDate": "2011-09"
-        }
-      },
-      {
-        "lat": -33.957578833693496,
-        "lng": -53.640252937507135,
-        "heading": 138.942,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "FZwc4SljIMuzUavRWdQCSw",
-          "panoDate": "2015-09"
-        }
-      },
-      {
-        "lat": -34.89151572825263,
-        "lng": -55.21511439379197,
-        "heading": 251.24707,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "X39FKH6s4Yx0cdWMyFVxWw",
-          "panoDate": "2015-09"
-        }
-      },
-      {
-        "lat": -34.4441000417888,
-        "lng": -57.07226199762913,
-        "heading": 146.75055,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "URyBqBu1Nm-wNIvyTP3oqQ",
-          "panoDate": "2015-10"
-        }
-      },
-      {
-        "lat": -35.39567329374725,
-        "lng": -57.31730155703627,
-        "heading": 7.589532,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "TSHew3idS14xFGNCCUj22g",
-          "panoDate": "2015-09"
-        }
-      },
-      {
-        "lat": -36.47365366803155,
-        "lng": -56.714182382151954,
-        "heading": 79.69965,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "QZH9mzNkVdo05xmfSu9Ygg",
-          "panoDate": "2013-11"
-        }
-      },
-      {
-        "lat": -37.87914331893287,
-        "lng": -57.5171666739446,
-        "heading": 18.913733,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": "GaOiHXphocCutl9D9aC19w",
-        "countryCode": null,
-        "stateCode": null,
-        "extra": { "tags": [], "panoDate": "2015-03" }
-      },
-      {
-        "lat": -38.69832847558198,
-        "lng": -60.08352273491115,
-        "heading": 265.67014,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "jk3bUMUze8zwz-wa2BEcgA",
-          "panoDate": "2024-12"
-        }
-      },
-      {
-        "lat": -38.87427763501364,
-        "lng": -61.655280893629374,
-        "heading": 131.28038,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "bWUNQyK2uxyyySTUYxyaDg",
-          "panoDate": "2024-11"
-        }
-      },
-      {
-        "lat": -41.00260386329121,
-        "lng": -62.83108404944411,
-        "heading": 334.80356,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "7He2M6pQaIK-LiL-jqt8aA",
-          "panoDate": "2024-05"
-        }
-      },
-      {
-        "lat": -41.69697153687955,
-        "lng": -65.11227332131753,
-        "heading": 269.1623,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "CsjAoyG3hag-WRKFPenq3w",
-          "panoDate": "2014-12"
-        }
-      },
-      {
-        "lat": -42.47839087539179,
-        "lng": -63.615013144863276,
-        "heading": 355.97183,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "QLkK9UAS0RsxIcNMnB15Yg",
-          "panoDate": "2014-03"
-        }
-      },
-      {
-        "lat": -43.21468270301905,
-        "lng": -64.90274547786838,
-        "heading": 0.001,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": "CAoSF0NJSE0wb2dLRUlDQWdJRHFqYmo4bEFF",
-        "countryCode": null,
-        "stateCode": null,
-        "extra": { "tags": [], "panoDate": "2017-08" }
-      },
-      {
-        "lat": -44.32586312478415,
-        "lng": -65.26164737010463,
-        "heading": 345.24448,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "tYhnZwd-I2-8O5jhcBj9qw",
-          "panoDate": "2024-09"
-        }
-      },
-      {
-        "lat": -45.22052784839534,
-        "lng": -66.82626241606634,
-        "heading": 54.029663,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "pqP2y6uDPo9t2WWmcczz2g",
-          "panoDate": "2014-02"
-        }
-      },
-      {
-        "lat": -45.94479698514528,
-        "lng": -67.5970573001063,
-        "heading": 121.07672,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "Jq0oWrt-feTFORkuG2WJkA",
-          "panoDate": "2024-12"
-        }
-      },
-      {
-        "lat": -46.748438580072644,
-        "lng": -67.38266608038049,
-        "heading": 163.4708,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "sMkaQSwOZV8akkPqUu63DA",
-          "panoDate": "2018-12"
-        }
-      },
-      {
-        "lat": -47.252133466085056,
-        "lng": -65.83676415254509,
-        "heading": 55.82059,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "rsqRHDiZ55sazSqUv55qpg",
-          "panoDate": "2014-05"
-        }
-      },
-      {
-        "lat": -49.298431906785275,
-        "lng": -67.73763667465069,
-        "heading": 206.95865,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "SDtL91WU67kv9l65ishErg",
-          "panoDate": "2015-11"
-        }
-      },
-      {
-        "lat": -50.0195434425055,
-        "lng": -68.51079875941375,
-        "heading": 165.79074,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "kKh54tXL91NdJiuXg1uU8A",
-          "panoDate": "2015-11"
-        }
-      },
-      {
-        "lat": -52.20761857681662,
-        "lng": -68.90286782744417,
-        "heading": 107.68401,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "yqJYFf0UPHj3BNRvxoizbg",
-          "panoDate": "2014-11"
-        }
-      },
-      {
-        "lat": -51.921012089670754,
-        "lng": -72.0929399708455,
-        "heading": 161.77557,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "UPhltqQc0QZ41M_MQxpfvQ",
-          "panoDate": "2014-12"
-        }
-      },
-      {
-        "lat": -49.968433893583715,
-        "lng": -73.1363570798362,
-        "heading": 36.00335,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "XAUeItUrr_330F3upGE9YQ",
-          "panoDate": "2015-12"
-        }
-      },
-      {
-        "lat": -47.870628153358425,
-        "lng": -73.31513418188871,
-        "heading": 201.07039,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "13KB9nrmJTcJLPsGQ0XFgQ",
-          "panoDate": "2014-05"
-        }
-      },
-      {
-        "lat": -43.89456355377014,
-        "lng": -72.88825352018813,
-        "heading": 282.15018,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "-CDUKHd2HF5b6Yqu2sPPKA",
-          "panoDate": "2014-03"
-        }
-      },
-      {
-        "lat": -41.03400149231164,
-        "lng": -73.48492569666574,
-        "heading": 103.73064,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "zBW3lc0jK80z1hDuMcU4JQ",
-          "panoDate": "2024-07"
-        }
-      },
-      {
-        "lat": -38.898721386706036,
-        "lng": -73.25610443318058,
-        "heading": 14.553579,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "xyxzhEv_OKeGHI3ar7TF5A",
-          "panoDate": "2022-02"
-        }
-      },
-      {
-        "lat": -36.96416777523871,
-        "lng": -73.16986200391788,
-        "heading": 25.276209,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "k0DPxxB9t78RjM3Ny0zP3A",
-          "panoDate": "2022-07"
-        }
-      },
-      {
-        "lat": -35.00369566627411,
-        "lng": -72.04237585167868,
-        "heading": 48.729225,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "4PMH7aa0WwVoJkkPvE7AXg",
-          "panoDate": "2024-02"
-        }
-      },
-      {
-        "lat": -33.11399606372427,
-        "lng": -71.70840601609902,
-        "heading": 141.3884,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "GfY0q_0X0G-wR6zzL4_Fjw",
-          "panoDate": "2023-05"
-        }
-      },
-      {
-        "lat": -30.569739865548645,
-        "lng": -71.601648257062,
-        "heading": 282.04132,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "oFqZw3xsDHney47Y2-oHIg",
-          "panoDate": "2013-04"
-        }
-      },
-      {
-        "lat": -27.77890690826235,
-        "lng": -71.00476266841,
-        "heading": 44.400578,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "aeP80nJm7777tooUYwOL1Q",
-          "panoDate": "2024-03"
-        }
-      },
-      {
-        "lat": -26.334568607258447,
-        "lng": -70.60638471918591,
-        "heading": 97.48687,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "Y1fwOof71KpPQhgoNNRleQ",
-          "panoDate": "2024-05"
-        }
-      },
-      {
-        "lat": -23.709008146285157,
-        "lng": -70.43004239308708,
-        "heading": 348.90378,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "Bnpzui8Kg0t2rcZYEZ-1lA",
-          "panoDate": "2012-07"
-        }
-      },
-      {
-        "lat": -20.65421793324241,
-        "lng": -70.18075230432652,
-        "heading": 359.9496,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "uSdNvx36rVKEdZxkO3vyqA",
-          "panoDate": "2024-12"
-        }
-      },
-      {
-        "lat": -17.69134296639256,
-        "lng": -71.35754001533351,
-        "heading": 267.95517,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "ohij_nG1gYl5qCumhIvErg",
-          "panoDate": "2013-04"
-        }
-      },
-      {
-        "lat": -16.022963000318942,
-        "lng": -74.01227576994823,
-        "heading": 310.4603,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "d7CG0YzaoSm1DUFkgMEo_w",
-          "panoDate": "2022-09"
-        }
-      },
-      {
-        "lat": -12.679437908536,
-        "lng": -76.65406732622772,
-        "heading": 19.756815,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "HbT7-gApGacVSTdYdXX8uA",
-          "panoDate": "2013-03"
-        }
-      },
-      {
-        "lat": -10.767094524332666,
-        "lng": -77.74999725801838,
-        "heading": 336.4557,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "S4zQaw8NdsAT8HMZV3xCwA",
-          "panoDate": "2014-07"
-        }
-      },
-      {
-        "lat": -7.924616144703071,
-        "lng": -79.17530122104223,
-        "heading": 252.26105,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "b2ECqH8nXzREhHGoHnK0zA",
-          "panoDate": "2023-10"
-        }
-      },
-      {
-        "lat": -5.522164005015868,
-        "lng": -80.81662951612192,
-        "heading": 359.53433,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "EF8PkAsL0qSGdy-WPh1h-w",
-          "panoDate": "2022-09"
-        }
-      },
-      {
-        "lat": -3.501623703424537,
-        "lng": -80.39419418048884,
-        "heading": 65.92146,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "_6RhxufcvdvOqhqwZgJWxQ",
-          "panoDate": "2013-04"
-        }
-      },
-      {
-        "lat": -0.9492906124244869,
-        "lng": -80.75408966770786,
-        "heading": 19.027952,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "DVvEM2-nDAowcKRBS8hV8A",
-          "panoDate": "2015-02"
-        }
-      },
-      {
-        "lat": 0.9936333943471846,
-        "lng": -79.54943983201855,
-        "heading": 245.41684,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "IeEnDKL-trBmKbEcs9GnCw",
-          "panoDate": "2015-04"
-        }
-      },
-      {
-        "lat": 3.8851740247244164,
-        "lng": -77.04459018581711,
-        "heading": 116.68001,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "xAC17GvmQQ2qAYVNBp0VRg",
-          "panoDate": "2013-09"
-        }
-      },
-      {
-        "lat": 5.424946447906894,
-        "lng": -76.62657971132262,
-        "heading": 359.09332,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "aK2tvCw9YcyTc9naFNOOLA",
-          "panoDate": "2021-06"
-        }
-      },
-      {
-        "lat": 7.5109013877745685,
-        "lng": -76.58720676396506,
-        "heading": 315.75992,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "nLrKQbadgceskzxbfWp2mw",
-          "panoDate": "2024-05"
-        }
-      },
-      {
-        "lat": 9.149857163384242,
-        "lng": -76.11842171200591,
-        "heading": 185.41573,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "N9PfeENoJeI82jJsr25gaw",
-          "panoDate": "2023-07"
-        }
-      },
-      {
-        "lat": 10.834443589579378,
-        "lng": -75.14198999664,
-        "heading": 202.96608,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "msVQvcOoDn7v7jCEn1zSXQ",
-          "panoDate": "2022-09"
-        }
-      },
-      {
-        "lat": 11.249301887454047,
-        "lng": -73.80942388194158,
-        "heading": 270.49576,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "sGVa4DuJxWT6Y4F4GQqguQ",
-          "panoDate": "2022-08"
-        }
-      },
-      {
-        "lat": 11.449757401801666,
-        "lng": -72.5642406940071,
-        "heading": 102.671165,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "XmpMNPigvgra96NCTiv0zA",
-          "panoDate": "2022-08"
-        }
-      },
-      {
-        "lat": 12.209052124801847,
-        "lng": -71.84660077356797,
-        "heading": 205.33878,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "oi4fulpBtouGDDpTjrAPgg",
-          "panoDate": "2013-12"
-        }
-      },
-      {
-        "lat": 3.8191601211462647,
-        "lng": -51.790544634396674,
-        "heading": 315.67145,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "3mKfBcTocvtfZIl9g4vP0w",
-          "panoDate": "2022-10"
-        }
-      },
-      {
-        "lat": 2.5551822225556573,
-        "lng": -51.31165715515242,
-        "heading": 144.0781,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "ATHdGElRVgFOfcLGexqJIQ",
-          "panoDate": "2022-10"
-        }
-      },
-      {
-        "lat": 1.5920493026280411,
-        "lng": -50.900994620151515,
-        "heading": 158.08167,
-        "pitch": 0,
-        "zoom": 0,
-        "panoId": null,
-        "countryCode": null,
-        "stateCode": null,
-        "extra": {
-          "tags": [],
-          "panoId": "nyM9OyMG63ftZJMJ3SlKSg",
-          "panoDate": "2022-10"
-        }
-      }
-    ]
-}
+[
+  {
+    "lng": 19.6423990234923,
+    "lat": 78.8660948524013,
+    "country": "Norway"
+  },
+  {
+    "lng": 7.37251065714914,
+    "lat": 60.7868588754407,
+    "country": "Norway"
+  },
+  {
+    "lng": 11.6919507929305,
+    "lat": 79.3972735058851,
+    "country": "Norway"
+  },
+  {
+    "lng": 22.1115862145332,
+    "lat": 69.5370913637694,
+    "country": "Norway"
+  },
+  {
+    "lng": 12.6377573362938,
+    "lat": 61.3137989584477,
+    "country": "Norway"
+  },
+  {
+    "lng": 25.1095489971859,
+    "lat": 80.0130884208257,
+    "country": "Norway"
+  },
+  {
+    "lng": 15.9532592737693,
+    "lat": 67.5041555772075,
+    "country": "Norway"
+  },
+  {
+    "lng": 28.9417817770407,
+    "lat": 70.7526270056165,
+    "country": "Norway"
+  },
+  {
+    "lng": 31.6743042652965,
+    "lat": 80.0922874750937,
+    "country": "Norway"
+  },
+  {
+    "lng": -8.21835155693726,
+    "lat": 71.1103859293655,
+    "country": "Norway"
+  },
+  {
+    "lng": 3.41065018028049,
+    "lat": -54.4055676632671,
+    "country": "Norway"
+  },
+  {
+    "lng": 16.1529123254622,
+    "lat": 57.0880027386464,
+    "country": "Sweden"
+  },
+  {
+    "lng": 15.6213591748421,
+    "lat": 63.4604050368362,
+    "country": "Sweden"
+  },
+  {
+    "lng": 20.2186597322327,
+    "lat": 66.7936203163435,
+    "country": "Sweden"
+  },
+  {
+    "lng": 11.2424870680181,
+    "lat": 58.7532885764621,
+    "country": "Sweden"
+  },
+  {
+    "lng": 7.32395256732189,
+    "lat": 50.6022264324852,
+    "country": "Germany"
+  },
+  {
+    "lng": 13.5167207970726,
+    "lat": 53.2525818446491,
+    "country": "Germany"
+  },
+  {
+    "lng": 12.1474752111901,
+    "lat": 47.6711505617441,
+    "country": "Germany"
+  },
+  {
+    "lng": 5.24103871692934,
+    "lat": 51.720707518421,
+    "country": "Netherlands"
+  },
+  {
+    "lng": -68.3822830779915,
+    "lat": 12.2962154727175,
+    "country": "Netherlands"
+  },
+  {
+    "lng": -62.9830193352524,
+    "lat": 17.489132245137,
+    "country": "Netherlands"
+  },
+  {
+    "lng": 47.335583983849,
+    "lat": 54.6262960032219,
+    "country": "Russia"
+  },
+  {
+    "lng": 157.905791037605,
+    "lat": 54.8149175605946,
+    "country": "Russia"
+  },
+  {
+    "lng": 66.1544321611263,
+    "lat": 68.5918073830669,
+    "country": "Russia"
+  },
+  {
+    "lng": 131.936689898764,
+    "lat": 69.7109294890271,
+    "country": "Russia"
+  },
+  {
+    "lng": 87.3623639364583,
+    "lat": 64.0756499919094,
+    "country": "Russia"
+  },
+  {
+    "lng": 109.327078361034,
+    "lat": 51.7014604862519,
+    "country": "Russia"
+  },
+  {
+    "lng": 72.8907830978373,
+    "lat": 62.1220620335471,
+    "country": "Russia"
+  },
+  {
+    "lng": 165.775806143298,
+    "lat": 63.0428272833068,
+    "country": "Russia"
+  },
+  {
+    "lng": 48.6454615656864,
+    "lat": 63.8923405778148,
+    "country": "Russia"
+  },
+  {
+    "lng": 55.0803035986803,
+    "lat": 67.9449928854889,
+    "country": "Russia"
+  },
+  {
+    "lng": 92.1251781008344,
+    "lat": 57.3252915963476,
+    "country": "Russia"
+  },
+  {
+    "lng": 112.653973591169,
+    "lat": 58.9090503131256,
+    "country": "Russia"
+  },
+  {
+    "lng": 116.340940508812,
+    "lat": 68.5291846672752,
+    "country": "Russia"
+  },
+  {
+    "lng": 134.74678047073,
+    "lat": 60.7990966256529,
+    "country": "Russia"
+  },
+  {
+    "lng": 36.7982822075686,
+    "lat": 61.1331070248975,
+    "country": "Russia"
+  },
+  {
+    "lng": 55.3817868385912,
+    "lat": 53.1356890037496,
+    "country": "Russia"
+  },
+  {
+    "lng": 94.2815030870818,
+    "lat": 51.1383628355079,
+    "country": "Russia"
+  },
+  {
+    "lng": 84.5942738650125,
+    "lat": 59.2869457338544,
+    "country": "Russia"
+  },
+  {
+    "lng": 105.463438321874,
+    "lat": 64.3175084884904,
+    "country": "Russia"
+  },
+  {
+    "lng": 122.352978826072,
+    "lat": 61.7449960539828,
+    "country": "Russia"
+  },
+  {
+    "lng": 44.1706520769561,
+    "lat": 66.2446164320528,
+    "country": "Russia"
+  },
+  {
+    "lng": 134.673676766276,
+    "lat": 54.9983371865231,
+    "country": "Russia"
+  },
+  {
+    "lng": 78.5309349981485,
+    "lat": 68.9050686996316,
+    "country": "Russia"
+  },
+  {
+    "lng": 107.573334844502,
+    "lat": 68.859106502264,
+    "country": "Russia"
+  },
+  {
+    "lng": 97.2082438784751,
+    "lat": 58.6537046139686,
+    "country": "Russia"
+  },
+  {
+    "lng": 61.0527717984709,
+    "lat": 80.7691223567294,
+    "country": "Russia"
+  },
+  {
+    "lng": 154.213709144103,
+    "lat": 70.6556925127437,
+    "country": "Russia"
+  },
+  {
+    "lng": 39.9509700571068,
+    "lat": 56.0685465301211,
+    "country": "Russia"
+  },
+  {
+    "lng": 123.207548038429,
+    "lat": 55.4673602027745,
+    "country": "Russia"
+  },
+  {
+    "lng": 61.6644680835272,
+    "lat": 55.1293059354566,
+    "country": "Russia"
+  },
+  {
+    "lng": -179.413750585394,
+    "lat": 68.0918097267677,
+    "country": "Russia"
+  },
+  {
+    "lng": 59.778712895621,
+    "lat": 63.9774146388587,
+    "country": "Russia"
+  },
+  {
+    "lng": 97.8565461034806,
+    "lat": 65.6991220672014,
+    "country": "Russia"
+  },
+  {
+    "lng": 146.366825158805,
+    "lat": 64.6387664152006,
+    "country": "Russia"
+  },
+  {
+    "lng": 140.023871800581,
+    "lat": 61.2726846448798,
+    "country": "Russia"
+  },
+  {
+    "lng": 44.7796050783813,
+    "lat": 44.2607954607978,
+    "country": "Russia"
+  },
+  {
+    "lng": 117.014078704245,
+    "lat": 52.9060998286699,
+    "country": "Russia"
+  },
+  {
+    "lng": 166.89321872023,
+    "lat": 68.9103830782005,
+    "country": "Russia"
+  },
+  {
+    "lng": 123.523505776636,
+    "lat": 73.3895838409483,
+    "country": "Russia"
+  },
+  {
+    "lng": 37.6671766335919,
+    "lat": 44.664931302919,
+    "country": "Russia"
+  },
+  {
+    "lng": 110.728683722038,
+    "lat": 73.3801494126707,
+    "country": "Russia"
+  },
+  {
+    "lng": 95.5701922864808,
+    "lat": 80.1727255560046,
+    "country": "Russia"
+  },
+  {
+    "lng": 92.4008841579523,
+    "lat": 68.0084145811159,
+    "country": "Russia"
+  },
+  {
+    "lng": 159.878522695706,
+    "lat": 68.6376396874189,
+    "country": "Russia"
+  },
+  {
+    "lng": 133.776241782052,
+    "lat": 44.6257940512591,
+    "country": "Russia"
+  },
+  {
+    "lng": 88.0057338739877,
+    "lat": 53.8969070179654,
+    "country": "Russia"
+  },
+  {
+    "lng": 32.0503328553346,
+    "lat": 54.8775401702423,
+    "country": "Russia"
+  },
+  {
+    "lng": 101.633617041437,
+    "lat": 74.80023525313,
+    "country": "Russia"
+  },
+  {
+    "lng": 151.727597595276,
+    "lat": 65.0325805801006,
+    "country": "Russia"
+  },
+  {
+    "lng": 137.80702484472,
+    "lat": 48.8073244999839,
+    "country": "Russia"
+  },
+  {
+    "lng": 172.05823596657,
+    "lat": 63.6221293681017,
+    "country": "Russia"
+  },
+  {
+    "lng": 30.066795962773,
+    "lat": 60.3861475977894,
+    "country": "Russia"
+  },
+  {
+    "lng": 141.182358523816,
+    "lat": 67.1269736561257,
+    "country": "Russia"
+  },
+  {
+    "lng": 59.8109967264842,
+    "lat": 75.6542110798003,
+    "country": "Russia"
+  },
+  {
+    "lng": 142.806436962299,
+    "lat": 48.6569551832526,
+    "country": "Russia"
+  },
+  {
+    "lng": 117.431043360167,
+    "lat": 62.6415670354739,
+    "country": "Russia"
+  },
+  {
+    "lng": 103.385301146036,
+    "lat": 57.2217854192714,
+    "country": "Russia"
+  },
+  {
+    "lng": 43.4677841139416,
+    "lat": 59.9007986477649,
+    "country": "Russia"
+  },
+  {
+    "lng": 87.2428483082795,
+    "lat": 75.0784351122495,
+    "country": "Russia"
+  },
+  {
+    "lng": 76.8591574779298,
+    "lat": 56.364785612294,
+    "country": "Russia"
+  },
+  {
+    "lng": 126.685793760166,
+    "lat": 67.195622467101,
+    "country": "Russia"
+  },
+  {
+    "lng": 176.495023615851,
+    "lat": 69.2654783149962,
+    "country": "Russia"
+  },
+  {
+    "lng": 65.0859115332051,
+    "lat": 61.3731810143572,
+    "country": "Russia"
+  },
+  {
+    "lng": 40.4396333973996,
+    "lat": 48.9430905874818,
+    "country": "Russia"
+  },
+  {
+    "lng": 79.9711168806433,
+    "lat": 51.080722415008,
+    "country": "Russia"
+  },
+  {
+    "lng": 146.774081549395,
+    "lat": 71.7345438109606,
+    "country": "Russia"
+  },
+  {
+    "lng": 103.65354991131,
+    "lat": 50.5478566831055,
+    "country": "Russia"
+  },
+  {
+    "lng": 66.8156289588771,
+    "lat": 56.2035382658546,
+    "country": "Russia"
+  },
+  {
+    "lng": 46.0061158183909,
+    "lat": 49.3714427385206,
+    "country": "Russia"
+  },
+  {
+    "lng": 72.0166302712565,
+    "lat": 68.739878960888,
+    "country": "Russia"
+  },
+  {
+    "lng": 96.1906308727936,
+    "lat": 71.750889553699,
+    "country": "Russia"
+  },
+  {
+    "lng": 132.968535691726,
+    "lat": 50.0679323361028,
+    "country": "Russia"
+  },
+  {
+    "lng": -171.596608421662,
+    "lat": 66.573250782381,
+    "country": "Russia"
+  },
+  {
+    "lng": 83.861801409145,
+    "lat": 68.659774410912,
+    "country": "Russia"
+  },
+  {
+    "lng": 82.0979785891467,
+    "lat": 63.8642412455456,
+    "country": "Russia"
+  },
+  {
+    "lng": 56.1202905588178,
+    "lat": 58.4725701056547,
+    "country": "Russia"
+  },
+  {
+    "lng": 31.2946942746955,
+    "lat": 66.2480507751512,
+    "country": "Russia"
+  },
+  {
+    "lng": 127.462235902827,
+    "lat": 52.162204827219,
+    "country": "Russia"
+  },
+  {
+    "lng": 128.190725888699,
+    "lat": 61.2229056235813,
+    "country": "Russia"
+  },
+  {
+    "lng": 159.69741544632,
+    "lat": 63.5999090559702,
+    "country": "Russia"
+  },
+  {
+    "lng": 141.29071198963,
+    "lat": 72.1769889790167,
+    "country": "Russia"
+  },
+  {
+    "lng": 135.473042358365,
+    "lat": 65.9570227564092,
+    "country": "Russia"
+  },
+  {
+    "lng": 147.03474948404,
+    "lat": 44.5531532733109,
+    "country": "Russia"
+  },
+  {
+    "lng": 72.0202935563001,
+    "lat": 55.0320508784011,
+    "country": "Russia"
+  },
+  {
+    "lng": 145.015015079705,
+    "lat": 59.4272167856732,
+    "country": "Russia"
+  },
+  {
+    "lng": 139.887207231719,
+    "lat": 53.374960208679,
+    "country": "Russia"
+  },
+  {
+    "lng": 36.3026284888345,
+    "lat": 66.7415749055412,
+    "country": "Russia"
+  },
+  {
+    "lng": 76.0556527005491,
+    "lat": 73.5618078928229,
+    "country": "Russia"
+  },
+  {
+    "lng": 48.1064782566901,
+    "lat": 80.2860512564526,
+    "country": "Russia"
+  },
+  {
+    "lng": 50.6167777038679,
+    "lat": 58.7115585098269,
+    "country": "Russia"
+  },
+  {
+    "lng": 53.4833878658475,
+    "lat": 73.0514298841275,
+    "country": "Russia"
+  },
+  {
+    "lng": 111.600687015792,
+    "lat": 65.4400289447849,
+    "country": "Russia"
+  },
+  {
+    "lng": 177.896333889935,
+    "lat": 63.330932883272,
+    "country": "Russia"
+  },
+  {
+    "lng": 121.373536966412,
+    "lat": 68.338800117723,
+    "country": "Russia"
+  },
+  {
+    "lng": 101.745163543466,
+    "lat": 69.7320354009074,
+    "country": "Russia"
+  },
+  {
+    "lng": 93.0519900193804,
+    "lat": 62.3026373732056,
+    "country": "Russia"
+  },
+  {
+    "lng": 79.1255574939265,
+    "lat": 80.8337689369198,
+    "country": "Russia"
+  },
+  {
+    "lng": 105.361439675607,
+    "lat": 78.5201990169754,
+    "country": "Russia"
+  },
+  {
+    "lng": 99.5175397281077,
+    "lat": 54.0157464566296,
+    "country": "Russia"
+  },
+  {
+    "lng": 53.3865254473011,
+    "lat": 80.1831323420267,
+    "country": "Russia"
+  },
+  {
+    "lng": 155.487280549149,
+    "lat": 60.7967763442674,
+    "country": "Russia"
+  },
+  {
+    "lng": 161.865732890856,
+    "lat": 59.019157383449,
+    "country": "Russia"
+  },
+  {
+    "lng": 22.5966818899544,
+    "lat": 54.5061869723925,
+    "country": "Russia"
+  },
+  {
+    "lng": 150.14674133125,
+    "lat": 60.0252879044289,
+    "country": "Russia"
+  },
+  {
+    "lng": 48.9823039856481,
+    "lat": 69.1828566393519,
+    "country": "Russia"
+  },
+  {
+    "lng": 68.0895717939509,
+    "lat": 76.8643839412879,
+    "country": "Russia"
+  },
+  {
+    "lng": 118.361925387834,
+    "lat": 73.1872316702441,
+    "country": "Russia"
+  },
+  {
+    "lng": 165.988915246549,
+    "lat": 55.2719808607374,
+    "country": "Russia"
+  },
+  {
+    "lng": 35.4642627597105,
+    "lat": 51.1221095371262,
+    "country": "Russia"
+  },
+  {
+    "lng": 135.723002531687,
+    "lat": 75.6896251897313,
+    "country": "Russia"
+  },
+  {
+    "lng": 104.437935927499,
+    "lat": 14.2776800345886,
+    "country": "Cambodia"
+  },
+  {
+    "lng": 15.7987590035457,
+    "lat": 44.6382913346678,
+    "country": "Croatia"
+  },
+  {
+    "lng": 98.7016494185172,
+    "lat": 21.4560947097144,
+    "country": "Myanmar"
+  },
+  {
+    "lng": 93.8841010211062,
+    "lat": 23.2666367621948,
+    "country": "Myanmar"
+  },
+  {
+    "lng": 98.4653597417385,
+    "lat": 15.9314898871676,
+    "country": "Myanmar"
+  },
+  {
+    "lng": 98.3304201213374,
+    "lat": 26.9097981723194,
+    "country": "Myanmar"
+  },
+  {
+    "lng": 98.6992214960793,
+    "lat": 10.7856702921752,
+    "country": "Myanmar"
+  },
+  {
+    "lng": 104.449602582944,
+    "lat": 21.5823222711339,
+    "country": "Vietnam"
+  },
+  {
+    "lng": 105.116533728164,
+    "lat": 10.810513301593,
+    "country": "Vietnam"
+  },
+  {
+    "lng": 107.553555907241,
+    "lat": 16.1319743195735,
+    "country": "Vietnam"
+  },
+  {
+    "lng": -132.616597640993,
+    "lat": 62.2464456241261,
+    "country": "Canada"
+  },
+  {
+    "lng": -94.38355889517,
+    "lat": 55.2655286576255,
+    "country": "Canada"
+  },
+  {
+    "lng": -70.3300191318175,
+    "lat": 81.9945146586078,
+    "country": "Canada"
+  },
+  {
+    "lng": -126.477338751064,
+    "lat": 64.9338730788321,
+    "country": "Canada"
+  },
+  {
+    "lng": -131.102082512177,
+    "lat": 67.0417584638695,
+    "country": "Canada"
+  },
+  {
+    "lng": -110.81862482641,
+    "lat": 67.3890979380669,
+    "country": "Canada"
+  },
+  {
+    "lng": -108.145044831397,
+    "lat": 61.17001256554,
+    "country": "Canada"
+  },
+  {
+    "lng": -76.3214773610908,
+    "lat": 81.9562905037563,
+    "country": "Canada"
+  },
+  {
+    "lng": -61.8169406336221,
+    "lat": 54.4576200377443,
+    "country": "Canada"
+  },
+  {
+    "lng": -139.286464900846,
+    "lat": 65.2999512103801,
+    "country": "Canada"
+  },
+  {
+    "lng": -117.278161704574,
+    "lat": 67.513822616157,
+    "country": "Canada"
+  },
+  {
+    "lng": -71.1025385570872,
+    "lat": 58.9097860856873,
+    "country": "Canada"
+  },
+  {
+    "lng": -123.190947283996,
+    "lat": 50.7342299349183,
+    "country": "Canada"
+  },
+  {
+    "lng": -100.236505197626,
+    "lat": 73.2275953741783,
+    "country": "Canada"
+  },
+  {
+    "lng": -73.67179740032,
+    "lat": 65.9300879022228,
+    "country": "Canada"
+  },
+  {
+    "lng": -107.326792020982,
+    "lat": 72.3340479042773,
+    "country": "Canada"
+  },
+  {
+    "lng": -112.828471934335,
+    "lat": 49.415122862448,
+    "country": "Canada"
+  },
+  {
+    "lng": -56.8387684296218,
+    "lat": 47.5353352777162,
+    "country": "Canada"
+  },
+  {
+    "lng": -99.3081853013624,
+    "lat": 57.1168208779034,
+    "country": "Canada"
+  },
+  {
+    "lng": -83.1161612604713,
+    "lat": 47.9846537483572,
+    "country": "Canada"
+  },
+  {
+    "lng": -68.729780227901,
+    "lat": 63.7583316488212,
+    "country": "Canada"
+  },
+  {
+    "lng": -95.4840315933762,
+    "lat": 60.8566368306925,
+    "country": "Canada"
+  },
+  {
+    "lng": -123.661354151681,
+    "lat": 56.2685083067966,
+    "country": "Canada"
+  },
+  {
+    "lng": -98.7443943758827,
+    "lat": 66.9957529500311,
+    "country": "Canada"
+  },
+  {
+    "lng": -69.1107380665889,
+    "lat": 69.1082163608992,
+    "country": "Canada"
+  },
+  {
+    "lng": -75.9341376465918,
+    "lat": 61.2546002333061,
+    "country": "Canada"
+  },
+  {
+    "lng": -103.904868951565,
+    "lat": 67.0506207755165,
+    "country": "Canada"
+  },
+  {
+    "lng": -65.7867649912299,
+    "lat": 45.3879882579499,
+    "country": "Canada"
+  },
+  {
+    "lng": -79.9338417473274,
+    "lat": 42.9027934574338,
+    "country": "Canada"
+  },
+  {
+    "lng": -115.355322620942,
+    "lat": 59.1415040235057,
+    "country": "Canada"
+  },
+  {
+    "lng": -90.9755574404302,
+    "lat": 79.8907945863189,
+    "country": "Canada"
+  },
+  {
+    "lng": -96.0503066192188,
+    "lat": 76.7503755147028,
+    "country": "Canada"
+  },
+  {
+    "lng": -101.334361559281,
+    "lat": 78.9185763901032,
+    "country": "Canada"
+  },
+  {
+    "lng": -99.848231273435,
+    "lat": 51.2516324054371,
+    "country": "Canada"
+  },
+  {
+    "lng": -105.743060835227,
+    "lat": 50.7971080281419,
+    "country": "Canada"
+  },
+  {
+    "lng": -85.7094691146698,
+    "lat": 70.1909247419552,
+    "country": "Canada"
+  },
+  {
+    "lng": -91.8787228839054,
+    "lat": 67.0254312890842,
+    "country": "Canada"
+  },
+  {
+    "lng": -75.1937400962867,
+    "lat": 71.3056651579887,
+    "country": "Canada"
+  },
+  {
+    "lng": -77.2314970406025,
+    "lat": 53.5087581392468,
+    "country": "Canada"
+  },
+  {
+    "lng": -89.1470772390384,
+    "lat": 49.5199542387476,
+    "country": "Canada"
+  },
+  {
+    "lng": -112.72782007842,
+    "lat": 76.1744412796281,
+    "country": "Canada"
+  },
+  {
+    "lng": -120.345924447074,
+    "lat": 76.759416440519,
+    "country": "Canada"
+  },
+  {
+    "lng": -110.234107372891,
+    "lat": 54.2961814221075,
+    "country": "Canada"
+  },
+  {
+    "lng": -83.9814754413833,
+    "lat": 76.66937122576,
+    "country": "Canada"
+  },
+  {
+    "lng": -66.9837589512603,
+    "lat": 55.684926929854,
+    "country": "Canada"
+  },
+  {
+    "lng": -127.965270759633,
+    "lat": 59.7921237852139,
+    "country": "Canada"
+  },
+  {
+    "lng": -117.283934768245,
+    "lat": 52.7484434741052,
+    "country": "Canada"
+  },
+  {
+    "lng": -74.0714884704634,
+    "lat": 49.1973606161653,
+    "country": "Canada"
+  },
+  {
+    "lng": -121.428868997919,
+    "lat": 61.0518178461522,
+    "country": "Canada"
+  },
+  {
+    "lng": -94.3817861453539,
+    "lat": 48.7786145294027,
+    "country": "Canada"
+  },
+  {
+    "lng": -83.6439921124058,
+    "lat": 53.0885948275891,
+    "country": "Canada"
+  },
+  {
+    "lng": -85.9761754039926,
+    "lat": 63.8496336809062,
+    "country": "Canada"
+  },
+  {
+    "lng": -125.007839787154,
+    "lat": 72.1089874160575,
+    "country": "Canada"
+  },
+  {
+    "lng": -81.5983914349047,
+    "lat": 81.8623190329085,
+    "country": "Canada"
+  },
+  {
+    "lng": -62.6434962437681,
+    "lat": 82.1759374981176,
+    "country": "Canada"
+  },
+  {
+    "lng": -104.361007372948,
+    "lat": 55.9501945519623,
+    "country": "Canada"
+  },
+  {
+    "lng": -128.584764749336,
+    "lat": 53.340758188551,
+    "country": "Canada"
+  },
+  {
+    "lng": -88.508802303752,
+    "lat": 56.009806401602,
+    "country": "Canada"
+  },
+  {
+    "lng": -95.5395210528706,
+    "lat": 71.1926329107826,
+    "country": "Canada"
+  },
+  {
+    "lng": -62.100370909737,
+    "lat": 66.9918394772039,
+    "country": "Canada"
+  },
+  {
+    "lng": -55.9680028198687,
+    "lat": 52.464385144938,
+    "country": "Canada"
+  },
+  {
+    "lng": -67.1633124006279,
+    "lat": 50.4685483268494,
+    "country": "Canada"
+  },
+  {
+    "lng": -102.973500480836,
+    "lat": 61.6621007132327,
+    "country": "Canada"
+  },
+  {
+    "lng": -137.506122903078,
+    "lat": 60.5283678670847,
+    "country": "Canada"
+  },
+  {
+    "lng": -90.2492144601291,
+    "lat": 74.6571382894152,
+    "country": "Canada"
+  },
+  {
+    "lng": -80.3922427616313,
+    "lat": 71.5018799595798,
+    "country": "Canada"
+  },
+  {
+    "lng": -78.0434677574572,
+    "lat": 76.6490967926969,
+    "country": "Canada"
+  },
+  {
+    "lng": -80.3145224104887,
+    "lat": 63.8133559224263,
+    "country": "Canada"
+  },
+  {
+    "lng": -116.79732294558,
+    "lat": 73.1995615358033,
+    "country": "Canada"
+  },
+  {
+    "lng": -135.860693840575,
+    "lat": 69.1085584931436,
+    "country": "Canada"
+  },
+  {
+    "lng": -81.2215228094559,
+    "lat": 26.6251059054021,
+    "country": "United States of America"
+  },
+  {
+    "lng": -110.311978821929,
+    "lat": 32.8589483309869,
+    "country": "United States of America"
+  },
+  {
+    "lng": -102.509200599157,
+    "lat": 35.7929122349545,
+    "country": "United States of America"
+  },
+  {
+    "lng": -147.793848696348,
+    "lat": 61.2683730748437,
+    "country": "United States of America"
+  },
+  {
+    "lng": -82.9338029935741,
+    "lat": 43.6509053002111,
+    "country": "United States of America"
+  },
+  {
+    "lng": -87.6801739830578,
+    "lat": 34.7207754011963,
+    "country": "United States of America"
+  },
+  {
+    "lng": -115.866239515686,
+    "lat": 37.6610391074898,
+    "country": "United States of America"
+  },
+  {
+    "lng": -75.6684827961364,
+    "lat": 40.6036120467727,
+    "country": "United States of America"
+  },
+  {
+    "lng": -157.207023579285,
+    "lat": 67.0958653935072,
+    "country": "United States of America"
+  },
+  {
+    "lng": -102.176879420176,
+    "lat": 30.189544439194,
+    "country": "United States of America"
+  },
+  {
+    "lng": -70.2755563335856,
+    "lat": 45.2319958226089,
+    "country": "United States of America"
+  },
+  {
+    "lng": -95.3653679564175,
+    "lat": 40.0964005145245,
+    "country": "United States of America"
+  },
+  {
+    "lng": -117.113517102451,
+    "lat": 45.6100499711966,
+    "country": "United States of America"
+  },
+  {
+    "lng": -159.386094014861,
+    "lat": 59.0461689008128,
+    "country": "United States of America"
+  },
+  {
+    "lng": -111.638037251243,
+    "lat": 42.7010687029668,
+    "country": "United States of America"
+  },
+  {
+    "lng": -93.6902888216069,
+    "lat": 31.560026980377,
+    "country": "United States of America"
+  },
+  {
+    "lng": -122.9352468926,
+    "lat": 46.2240124616528,
+    "country": "United States of America"
+  },
+  {
+    "lng": -145.043704597383,
+    "lat": 67.0694975775143,
+    "country": "United States of America"
+  },
+  {
+    "lng": -103.00856691822,
+    "lat": 42.9419547397422,
+    "country": "United States of America"
+  },
+  {
+    "lng": -164.423657728569,
+    "lat": 65.7053487239955,
+    "country": "United States of America"
+  },
+  {
+    "lng": -106.666730467016,
+    "lat": 46.912245079497,
+    "country": "United States of America"
+  },
+  {
+    "lng": -122.964045065042,
+    "lat": 39.469406785686,
+    "country": "United States of America"
+  },
+  {
+    "lng": -151.052957193745,
+    "lat": 68.8946727162169,
+    "country": "United States of America"
+  },
+  {
+    "lng": -169.44036361965,
+    "lat": 63.3394302440239,
+    "country": "United States of America"
+  },
+  {
+    "lng": -90.2787083942088,
+    "lat": 46.5526865376417,
+    "country": "United States of America"
+  },
+  {
+    "lng": -87.3924329787234,
+    "lat": 40.4053551590962,
+    "country": "United States of America"
+  },
+  {
+    "lng": -78.8628281620027,
+    "lat": 34.5532631807076,
+    "country": "United States of America"
+  },
+  {
+    "lng": -133.323188347706,
+    "lat": 57.4635223013177,
+    "country": "United States of America"
+  },
+  {
+    "lng": -165.207327775084,
+    "lat": 60.5659543226929,
+    "country": "United States of America"
+  },
+  {
+    "lng": -98.4779781393002,
+    "lat": 26.5053957757295,
+    "country": "United States of America"
+  },
+  {
+    "lng": -153.618792704981,
+    "lat": 61.5618362759006,
+    "country": "United States of America"
+  },
+  {
+    "lng": -84.0155024299937,
+    "lat": 31.0448460853988,
+    "country": "United States of America"
+  },
+  {
+    "lng": -101.193837161754,
+    "lat": 48.0634385144973,
+    "country": "United States of America"
+  },
+  {
+    "lng": -111.388561794051,
+    "lat": 48.9780055572365,
+    "country": "United States of America"
+  },
+  {
+    "lng": -141.150301604729,
+    "lat": 63.2121581072328,
+    "country": "United States of America"
+  },
+  {
+    "lng": -163.614868900038,
+    "lat": 54.8965913202235,
+    "country": "United States of America"
+  },
+  {
+    "lng": 173.574063340135,
+    "lat": 52.4655011881828,
+    "country": "United States of America"
+  },
+  {
+    "lng": -95.8119833536317,
+    "lat": 47.2438236608968,
+    "country": "United States of America"
+  },
+  {
+    "lng": -81.6321329694031,
+    "lat": 38.736772496512,
+    "country": "United States of America"
+  },
+  {
+    "lng": -155.125504428805,
+    "lat": 19.3977852630308,
+    "country": "United States of America"
+  },
+  {
+    "lng": -109.26497018888,
+    "lat": 38.1913106881303,
+    "country": "United States of America"
+  },
+  {
+    "lng": -97.1522853585368,
+    "lat": 35.4178937209426,
+    "country": "United States of America"
+  },
+  {
+    "lng": -168.390855704998,
+    "lat": 53.1878340438418,
+    "country": "United States of America"
+  },
+  {
+    "lng": -119.797343702392,
+    "lat": 34.425423814562,
+    "country": "United States of America"
+  },
+  {
+    "lng": -161.798989106623,
+    "lat": 70.1860843722824,
+    "country": "United States of America"
+  },
+  {
+    "lng": -176.65194199521,
+    "lat": 51.8910973274677,
+    "country": "United States of America"
+  },
+  {
+    "lng": -160.138289430395,
+    "lat": 21.925595057703,
+    "country": "United States of America"
+  },
+  {
+    "lng": -98.9658620859557,
+    "lat": 18.5918923833953,
+    "country": "Mexico"
+  },
+  {
+    "lng": -112.51632494294,
+    "lat": 31.0192068836474,
+    "country": "Mexico"
+  },
+  {
+    "lng": -101.881586813088,
+    "lat": 26.5517598747569,
+    "country": "Mexico"
+  },
+  {
+    "lng": -88.3649037992256,
+    "lat": 21.4691373093179,
+    "country": "Mexico"
+  },
+  {
+    "lng": -111.598616073144,
+    "lat": 25.7223159261825,
+    "country": "Mexico"
+  },
+  {
+    "lng": -105.12864819625,
+    "lat": 30.7123605635629,
+    "country": "Mexico"
+  },
+  {
+    "lng": -93.0184202591424,
+    "lat": 15.7504626208438,
+    "country": "Mexico"
+  },
+  {
+    "lng": -105.598827686296,
+    "lat": 23.0211634504126,
+    "country": "Mexico"
+  },
+  {
+    "lng": -97.7517265222296,
+    "lat": 23.588295099704,
+    "country": "Mexico"
+  },
+  {
+    "lng": -68.7405443565213,
+    "lat": -53.0146805737739,
+    "country": "Chile"
+  },
+  {
+    "lng": -70.2433340036321,
+    "lat": -18.9408757527821,
+    "country": "Chile"
+  },
+  {
+    "lng": -72.6173477158645,
+    "lat": -41.3127944561344,
+    "country": "Chile"
+  },
+  {
+    "lng": -70.407171097297,
+    "lat": -31.1438586423756,
+    "country": "Chile"
+  },
+  {
+    "lng": -68.710136130673,
+    "lat": -24.6031745541543,
+    "country": "Chile"
+  },
+  {
+    "lng": -74.8286149517168,
+    "lat": -45.9113101680561,
+    "country": "Chile"
+  },
+  {
+    "lng": -72.6226690708303,
+    "lat": -36.3081072719559,
+    "country": "Chile"
+  },
+  {
+    "lng": -73.8302172753134,
+    "lat": -51.5716819697641,
+    "country": "Chile"
+  },
+  {
+    "lng": 21.891903891173,
+    "lat": -18.5330959912545,
+    "country": "Botswana"
+  },
+  {
+    "lng": 26.2929700339639,
+    "lat": -22.0986783742248,
+    "country": "Botswana"
+  },
+  {
+    "lng": 21.4681340475194,
+    "lat": -25.1635237098659,
+    "country": "Botswana"
+  },
+  {
+    "lng": 102.394787699993,
+    "lat": -0.942521282859036,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 122.83342250701,
+    "lat": -1.38508776513786,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 112.629598330867,
+    "lat": 1.01460810037412,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 97.0063280837492,
+    "lat": 4.50524637405013,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 140.76318398466,
+    "lat": -7.24595863202862,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 117.079160002156,
+    "lat": 3.65998681261263,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 119.8287255649,
+    "lat": -9.71508987447631,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 107.091850750013,
+    "lat": -6.98456121021083,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 133.471745500466,
+    "lat": -3.38990759489907,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 112.207029082745,
+    "lat": -7.80878978818513,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 128.301002537422,
+    "lat": 1.01353211939114,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 139.219160833904,
+    "lat": -2.33228420400603,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 115.405287351338,
+    "lat": -3.52530343221876,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 129.132170237449,
+    "lat": -6.96950268857235,
+    "country": "Indonesia"
+  },
+  {
+    "lng": 108.27753442444,
+    "lat": 3.99497576135582,
+    "country": "Indonesia"
+  },
+  {
+    "lng": -76.6793219394566,
+    "lat": -1.18309155806825,
+    "country": "Ecuador"
+  },
+  {
+    "lng": -90.4143541360048,
+    "lat": -0.53965038431883,
+    "country": "Ecuador"
+  },
+  {
+    "lng": 150.764911166278,
+    "lat": -9.45842235399193,
+    "country": "Papua New Guinea"
+  },
+  {
+    "lng": 145.252864309741,
+    "lat": -4.64140012437773,
+    "country": "Papua New Guinea"
+  },
+  {
+    "lng": 152.005258619948,
+    "lat": -4.35207388196241,
+    "country": "Papua New Guinea"
+  },
+  {
+    "lng": 142.389885081852,
+    "lat": -8.9476374411535,
+    "country": "Papua New Guinea"
+  },
+  {
+    "lng": -77.9677627568431,
+    "lat": 7.62236560576667,
+    "country": "Panama"
+  },
+  {
+    "lng": -82.7690571020223,
+    "lat": 9.45371584381468,
+    "country": "Panama"
+  },
+  {
+    "lng": 125.157184324792,
+    "lat": 11.7413962907283,
+    "country": "Philippines"
+  },
+  {
+    "lng": 121.349572967,
+    "lat": 16.7712992966475,
+    "country": "Philippines"
+  },
+  {
+    "lng": 126.180687634704,
+    "lat": 6.6967347684058,
+    "country": "Philippines"
+  },
+  {
+    "lng": 117.554212003877,
+    "lat": 8.87861970583695,
+    "country": "Philippines"
+  },
+  {
+    "lng": -72.3278239605297,
+    "lat": 21.770985625605,
+    "country": "Turks and Caicos Is."
+  },
+  {
+    "lng": -88.2860064274744,
+    "lat": 17.4088695458898,
+    "country": "Belize"
+  },
+  {
+    "lng": 140.553019100696,
+    "lat": 40.6240969000471,
+    "country": "Japan"
+  },
+  {
+    "lng": 139.019617735876,
+    "lat": 34.78363794356,
+    "country": "Japan"
+  },
+  {
+    "lng": 131.631454523959,
+    "lat": 34.0525465030312,
+    "country": "Japan"
+  },
+  {
+    "lng": 145.144502372264,
+    "lat": 43.2180998435407,
+    "country": "Japan"
+  },
+  {
+    "lng": 127.98414973649,
+    "lat": 26.5727970906602,
+    "country": "Japan"
+  },
+  {
+    "lng": 122.979138096277,
+    "lat": 24.4679279840123,
+    "country": "Japan"
+  },
+  {
+    "lng": 142.144468664311,
+    "lat": 26.6790166559027,
+    "country": "Japan"
+  },
+  {
+    "lng": 82.7278996998373,
+    "lat": 31.4315104766074,
+    "country": "China"
+  },
+  {
+    "lng": 113.154409935272,
+    "lat": 43.2547497238069,
+    "country": "China"
+  },
+  {
+    "lng": 108.440370320057,
+    "lat": 35.8734158027359,
+    "country": "China"
+  },
+  {
+    "lng": 92.2922968603014,
+    "lat": 33.809008403537,
+    "country": "China"
+  },
+  {
+    "lng": 127.461106175592,
+    "lat": 43.3124153931642,
+    "country": "China"
+  },
+  {
+    "lng": 108.967369874105,
+    "lat": 22.0648125703229,
+    "country": "China"
+  },
+  {
+    "lng": 115.597013323637,
+    "lat": 38.4843699237136,
+    "country": "China"
+  },
+  {
+    "lng": 101.013505269902,
+    "lat": 39.0811557105676,
+    "country": "China"
+  },
+  {
+    "lng": 89.7127376813991,
+    "lat": 43.4102273863457,
+    "country": "China"
+  },
+  {
+    "lng": 120.554346193787,
+    "lat": 27.5879943794351,
+    "country": "China"
+  },
+  {
+    "lng": 84.9785679457726,
+    "lat": 41.3818400580003,
+    "country": "China"
+  },
+  {
+    "lng": 79.3298754615738,
+    "lat": 37.355519037074,
+    "country": "China"
+  },
+  {
+    "lng": 133.761153594986,
+    "lat": 46.4084913511984,
+    "country": "China"
+  },
+  {
+    "lng": 125.421636702937,
+    "lat": 49.7909697478226,
+    "country": "China"
+  },
+  {
+    "lng": 89.6450850363598,
+    "lat": 28.885621085486,
+    "country": "China"
+  },
+  {
+    "lng": 100.039549207509,
+    "lat": 33.4927090511155,
+    "country": "China"
+  },
+  {
+    "lng": 118.806488591622,
+    "lat": 43.7362501061518,
+    "country": "China"
+  },
+  {
+    "lng": 111.053311871604,
+    "lat": 29.5969902505022,
+    "country": "China"
+  },
+  {
+    "lng": 105.524136657107,
+    "lat": 30.6874882346363,
+    "country": "China"
+  },
+  {
+    "lng": 85.4202234143762,
+    "lat": 36.1342692265879,
+    "country": "China"
+  },
+  {
+    "lng": 95.7277409796941,
+    "lat": 39.3106947254395,
+    "country": "China"
+  },
+  {
+    "lng": 99.8296818036116,
+    "lat": 23.4577128646755,
+    "country": "China"
+  },
+  {
+    "lng": 107.36324233134,
+    "lat": 41.7426902972525,
+    "country": "China"
+  },
+  {
+    "lng": 113.942880990342,
+    "lat": 23.5628554130914,
+    "country": "China"
+  },
+  {
+    "lng": 86.0578692658208,
+    "lat": 47.9062926835371,
+    "country": "China"
+  },
+  {
+    "lng": 123.345549214298,
+    "lat": 40.4131853625851,
+    "country": "China"
+  },
+  {
+    "lng": 119.799332836261,
+    "lat": 34.3671570024468,
+    "country": "China"
+  },
+  {
+    "lng": 120.879856722817,
+    "lat": 52.4750244169416,
+    "country": "China"
+  },
+  {
+    "lng": 104.832202332277,
+    "lat": 24.9272732880276,
+    "country": "China"
+  },
+  {
+    "lng": 114.795801822873,
+    "lat": 32.9424602333919,
+    "country": "China"
+  },
+  {
+    "lng": 74.3754722480453,
+    "lat": 39.73810610208,
+    "country": "China"
+  },
+  {
+    "lng": 116.071526313275,
+    "lat": 48.2038983890491,
+    "country": "China"
+  },
+  {
+    "lng": 100.902173145583,
+    "lat": 28.548819978701,
+    "country": "China"
+  },
+  {
+    "lng": 80.1249168444621,
+    "lat": 44.8914280863324,
+    "country": "China"
+  },
+  {
+    "lng": 95.7937637523534,
+    "lat": 30.0797697115587,
+    "country": "China"
+  },
+  {
+    "lng": 94.7498989001418,
+    "lat": 44.2176168107607,
+    "country": "China"
+  },
+  {
+    "lng": 90.0245768617744,
+    "lat": 38.3806531204985,
+    "country": "China"
+  },
+  {
+    "lng": 24.3245359152079,
+    "lat": 61.2531042289652,
+    "country": "Finland"
+  },
+  {
+    "lng": 28.6870603387066,
+    "lat": 69.5063444203552,
+    "country": "Finland"
+  },
+  {
+    "lng": 29.498279408371,
+    "lat": 63.6487908576467,
+    "country": "Finland"
+  },
+  {
+    "lng": 21.8388159409071,
+    "lat": 68.803625121576,
+    "country": "Finland"
+  },
+  {
+    "lng": -45.1177168808937,
+    "lat": 76.8052666760618,
+    "country": "Greenland"
+  },
+  {
+    "lng": -42.1641268841655,
+    "lat": 68.989755282602,
+    "country": "Greenland"
+  },
+  {
+    "lng": -56.758702695528,
+    "lat": 76.1437660359602,
+    "country": "Greenland"
+  },
+  {
+    "lng": -50.1481384908802,
+    "lat": 78.3863050889725,
+    "country": "Greenland"
+  },
+  {
+    "lng": -33.3604367907835,
+    "lat": 74.6560583723227,
+    "country": "Greenland"
+  },
+  {
+    "lng": -53.0171949241862,
+    "lat": 72.6208244802493,
+    "country": "Greenland"
+  },
+  {
+    "lng": -67.3488270797166,
+    "lat": 78.4454832135916,
+    "country": "Greenland"
+  },
+  {
+    "lng": -15.4590553295638,
+    "lat": 81.6559916633846,
+    "country": "Greenland"
+  },
+  {
+    "lng": -26.7784174944971,
+    "lat": 73.9063241716434,
+    "country": "Greenland"
+  },
+  {
+    "lng": -20.8840461582283,
+    "lat": 73.6426971611372,
+    "country": "Greenland"
+  },
+  {
+    "lng": -29.5998308504384,
+    "lat": 83.3725856146187,
+    "country": "Greenland"
+  },
+  {
+    "lng": -40.8032073739136,
+    "lat": 80.5557705719773,
+    "country": "Greenland"
+  },
+  {
+    "lng": -49.663247955437,
+    "lat": 66.7702213063182,
+    "country": "Greenland"
+  },
+  {
+    "lng": -46.1893977348871,
+    "lat": 62.9364904058229,
+    "country": "Greenland"
+  },
+  {
+    "lng": -36.968537255455,
+    "lat": 67.6188245823019,
+    "country": "Greenland"
+  },
+  {
+    "lng": -40.3233451697983,
+    "lat": 73.9841361787187,
+    "country": "Greenland"
+  },
+  {
+    "lng": -30.8474938446337,
+    "lat": 68.4351327283333,
+    "country": "Greenland"
+  },
+  {
+    "lng": -59.6536824225558,
+    "lat": 80.9196110666238,
+    "country": "Greenland"
+  },
+  {
+    "lng": -23.0890525560234,
+    "lat": 78.6541431605125,
+    "country": "Greenland"
+  },
+  {
+    "lng": -45.6324520530197,
+    "lat": 82.4975497260172,
+    "country": "Greenland"
+  },
+  {
+    "lng": -35.2559999739323,
+    "lat": 82.6900778059376,
+    "country": "Greenland"
+  },
+  {
+    "lng": -54.4024366389873,
+    "lat": 81.9115167045349,
+    "country": "Greenland"
+  },
+  {
+    "lng": -29.5110274362195,
+    "lat": 78.1425915161102,
+    "country": "Greenland"
+  },
+  {
+    "lng": -40.8300415751345,
+    "lat": 64.087110374394,
+    "country": "Greenland"
+  },
+  {
+    "lng": -47.8192031409728,
+    "lat": 72.5047129963418,
+    "country": "Greenland"
+  },
+  {
+    "lng": -61.857166694581,
+    "lat": 76.3073157525372,
+    "country": "Greenland"
+  },
+  {
+    "lng": -23.9852195384853,
+    "lat": 69.6992523188195,
+    "country": "Greenland"
+  },
+  {
+    "lng": -72.7407695086877,
+    "lat": 78.1851695078167,
+    "country": "Greenland"
+  },
+  {
+    "lng": -28.4191445111577,
+    "lat": -76.7523363316579,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 155.51048483591,
+    "lat": -83.6059735546282,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 54.7391876900414,
+    "lat": -87.2315844492734,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -15.7434919756813,
+    "lat": -76.8549477589143,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -132.988845077057,
+    "lat": -83.5254739808703,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 16.4107510429125,
+    "lat": -87.9844261501195,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 106.801955614978,
+    "lat": -74.4670742394843,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 155.380661746629,
+    "lat": -75.4005022181485,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 15.4757365986325,
+    "lat": -82.3961902742059,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 125.197684176048,
+    "lat": -79.7951220272685,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -161.34462477829,
+    "lat": -87.3868445026189,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 100.302015733616,
+    "lat": -79.0424113305543,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 13.4286159802825,
+    "lat": -74.6914308057524,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 163.326586626796,
+    "lat": -83.8492359111946,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 106.977591044072,
+    "lat": -81.1384706597282,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -176.984729500296,
+    "lat": -87.1501430262896,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 124.643862496061,
+    "lat": -85.4163800443313,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 122.42197381753,
+    "lat": -74.8243509562786,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 74.9707124662386,
+    "lat": -73.2499982031864,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 104.738087774156,
+    "lat": -87.2086767410025,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 106.623638632411,
+    "lat": -68.0748362753829,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 58.1324815417608,
+    "lat": -71.3223116612059,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 20.1517229934694,
+    "lat": -80.4958221366896,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -125.139662328335,
+    "lat": -78.0958019191311,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -6.70374256566058,
+    "lat": -86.782278624647,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 134.957541318273,
+    "lat": -83.112626114249,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -109.388931102205,
+    "lat": -83.0620019523454,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 145.315419499528,
+    "lat": -80.2954531340319,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 32.8848280617304,
+    "lat": -74.0271855830331,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -146.392714745792,
+    "lat": -83.0968105082521,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 63.8849312702883,
+    "lat": -70.3721161231802,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 116.25410886977,
+    "lat": -72.9676939317024,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 33.0893829440067,
+    "lat": -87.1733618623223,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -170.258491769673,
+    "lat": -85.960306520541,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 47.2254759377173,
+    "lat": -85.078505912125,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 61.1407909857896,
+    "lat": -89.5008821141556,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -63.7055945720903,
+    "lat": -82.4746471125672,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 96.9512195366645,
+    "lat": -68.5473559451551,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -123.540863035849,
+    "lat": -83.383273530944,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 97.2523872712768,
+    "lat": -74.5510186850451,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -145.061475743603,
+    "lat": -78.056357064489,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -100.554708157722,
+    "lat": -83.6963291234519,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 69.7999115807809,
+    "lat": -89.2439522155565,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -67.9739584838032,
+    "lat": -70.2179618847846,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 112.081821551066,
+    "lat": -77.2275813808287,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -11.9169440597619,
+    "lat": -87.0767780676552,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 39.6130636249328,
+    "lat": -75.6002821015692,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -91.4703521163208,
+    "lat": -80.8487947470454,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -88.5273980713473,
+    "lat": -87.8314409766103,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 134.730103521353,
+    "lat": -67.1431640875732,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -154.611446601609,
+    "lat": -77.4036447372798,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 74.5568181330542,
+    "lat": -81.5282309761507,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -77.633613076436,
+    "lat": -79.8774966583702,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 87.4540865198135,
+    "lat": -82.5540893579131,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -69.5061556044021,
+    "lat": -78.7354350144488,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -17.4861878652211,
+    "lat": -89.7626561786012,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -8.32203427853801,
+    "lat": -73.0271637605903,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 50.7492876403858,
+    "lat": -70.430542532751,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -115.715425455154,
+    "lat": -86.8402655080446,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 22.7639657532373,
+    "lat": -85.7514414051319,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 81.8447279772372,
+    "lat": -76.9974052901682,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 68.4128180581732,
+    "lat": -72.552207893826,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 0.608823204023263,
+    "lat": -88.2767381787605,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -49.9612422406974,
+    "lat": -85.4255712244098,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 152.220534994269,
+    "lat": -88.4828602475264,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -138.66382903211,
+    "lat": -78.6146792031747,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 146.161990801564,
+    "lat": -85.3490446532711,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 132.137851017716,
+    "lat": -73.3442921008291,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 89.0235739482262,
+    "lat": -89.4323800493949,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -105.641725366876,
+    "lat": -76.5544210986012,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 41.1603143948718,
+    "lat": -68.9945428546907,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 138.437141257676,
+    "lat": -75.7297508306329,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -85.7126507789499,
+    "lat": -74.4227885626016,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -69.8851246131828,
+    "lat": -88.953875284582,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 140.610479972649,
+    "lat": -82.7399025511618,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -131.733255109163,
+    "lat": -77.6480874245627,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 87.0022928446653,
+    "lat": -75.3366363652727,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 84.9760172365912,
+    "lat": -67.1055355489404,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 170.533611040163,
+    "lat": -89.3027428483791,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 63.8734622395388,
+    "lat": -85.2726978846864,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -22.7749452185852,
+    "lat": -85.9338091193328,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 113.122367159926,
+    "lat": -65.7883822639891,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -95.6050274770037,
+    "lat": -77.2127925873458,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -45.0723787720587,
+    "lat": -88.5330536463015,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -119.629712364002,
+    "lat": -79.4251278828751,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 39.5385870547031,
+    "lat": -84.871239943495,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -58.9304462591667,
+    "lat": -87.6974981426028,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -137.587564191119,
+    "lat": -87.0894081964343,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -75.5468260265658,
+    "lat": -87.6406146118069,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 27.2067132543343,
+    "lat": -77.3548471260293,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -11.1073370185196,
+    "lat": -81.875050498557,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -39.9113942414472,
+    "lat": -84.7616191749113,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 117.294794098652,
+    "lat": -85.0389052795636,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 20.3662280758554,
+    "lat": -74.0181671442937,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 10.3184628380751,
+    "lat": -86.0224418477885,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 178.401836787531,
+    "lat": -88.6121387132038,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -141.351921880992,
+    "lat": -83.0509241040357,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 91.6847381222682,
+    "lat": -70.5780909117665,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 137.99291283113,
+    "lat": -88.4223260775675,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -31.705573201837,
+    "lat": -86.3508424972247,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 93.7732117184377,
+    "lat": -87.4479519177859,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 123.415887175848,
+    "lat": -69.077747958228,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 145.05036836422,
+    "lat": -72.2734032539759,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -2.00544205710108,
+    "lat": -79.4009448579472,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 79.0041919180777,
+    "lat": -89.0691498536029,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -75.5879683579504,
+    "lat": -73.9641064912833,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -143.426533827603,
+    "lat": -87.6914118714033,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 152.799742331294,
+    "lat": -69.7107681180076,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -96.3362176481236,
+    "lat": -87.9908829609323,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -115.152989072061,
+    "lat": -75.096510931026,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 92.7202200063748,
+    "lat": -78.4333097317981,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 3.13704331388258,
+    "lat": -80.2679104295018,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 57.2334441509861,
+    "lat": -79.1325129657969,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -24.2256072805097,
+    "lat": -80.252223887109,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 8.19654635858679,
+    "lat": -72.0533536146524,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -123.208396194375,
+    "lat": -88.8076447412673,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 98.7663872283463,
+    "lat": -85.1805005771278,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 67.8474248855956,
+    "lat": -80.5752007971102,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 160.190903424909,
+    "lat": -70.1828346612908,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -62.6775041323535,
+    "lat": -74.3575631355301,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 74.2915077679906,
+    "lat": -87.031987562089,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -158.264608930926,
+    "lat": -81.949517851526,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 129.446237396108,
+    "lat": -88.7396141684505,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -82.4193596277112,
+    "lat": -88.9329139547747,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -50.3255878052099,
+    "lat": -79.8378379814046,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 48.4219439303416,
+    "lat": -77.8307950019113,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 33.7352365775948,
+    "lat": -69.0555495291634,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 139.606615538764,
+    "lat": -68.7023521121636,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -151.764187327564,
+    "lat": -89.3272676411834,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 33.2771957344969,
+    "lat": -80.2554380870995,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 150.887476233833,
+    "lat": -80.3811019799581,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 28.7904007390175,
+    "lat": -82.5345033689293,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 173.530164323027,
+    "lat": -83.9191795267519,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -84.3571072811154,
+    "lat": -82.3270305458864,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 112.654166055616,
+    "lat": -89.0442323982052,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 63.0902289124645,
+    "lat": -75.6240357970309,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 46.1529176623339,
+    "lat": -68.3609418679897,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 157.293865146517,
+    "lat": -88.4929350196895,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -35.4334206065383,
+    "lat": -82.3903855777729,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 164.565224793013,
+    "lat": -78.4510889669406,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 129.713870810757,
+    "lat": -67.3858585296661,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -105.395018897089,
+    "lat": -89.7155595472,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -163.256644848221,
+    "lat": -79.2235705424091,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 117.804408665287,
+    "lat": -78.8475982107461,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -18.3796674532529,
+    "lat": -82.1011591910093,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 0.459833659143843,
+    "lat": -74.6022936040395,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 102.582380599068,
+    "lat": -71.741822172397,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 41.419105796378,
+    "lat": -89.7510150362472,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 10.2760255963776,
+    "lat": -79.4521570384579,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -129.609068932656,
+    "lat": -89.3305352890398,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -152.979709121323,
+    "lat": -84.4301563319701,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -100.756072357776,
+    "lat": -78.4859341293513,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 167.604174222331,
+    "lat": -72.0642818249929,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -26.3250132261035,
+    "lat": -89.8450442553981,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -71.774066815788,
+    "lat": -83.3140285232584,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 6.42146005456276,
+    "lat": -89.5887497175778,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 81.1367386075521,
+    "lat": -83.8377190271776,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 28.3537133812025,
+    "lat": -88.8748281955364,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -114.409229751784,
+    "lat": -80.3623117324052,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -53.7269748574649,
+    "lat": -89.4551065840848,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 27.8576711745393,
+    "lat": -71.8014908586047,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -91.2555765822095,
+    "lat": -74.0283361132825,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 130.796703639243,
+    "lat": -79.829719725222,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -64.7801098474765,
+    "lat": -88.9982956287394,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 79.9201823784431,
+    "lat": -69.6394066507563,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 162.672132966861,
+    "lat": -89.8756536435285,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 159.07058854734,
+    "lat": -79.5909400184063,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -58.876561661878,
+    "lat": -64.0765176508994,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -56.2609141273011,
+    "lat": -82.8113914567439,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 42.8573561873324,
+    "lat": -79.4838101900158,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 52.2353444273008,
+    "lat": -82.8612995843206,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -45.2369789276159,
+    "lat": -83.5166264953072,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 150.498365677357,
+    "lat": -74.2110621667619,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -36.5094811097502,
+    "lat": -88.7578558848097,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 111.106249573111,
+    "lat": -71.2948077567682,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -64.7756025022956,
+    "lat": -66.1791875136535,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -98.5822744172797,
+    "lat": -72.3709623582961,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -30.3420160245892,
+    "lat": -81.467798093822,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 111.756609018153,
+    "lat": -83.4130706314339,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 118.319872410668,
+    "lat": -67.0625972421056,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -34.0159451232593,
+    "lat": -77.4886793787289,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 53.6650083943443,
+    "lat": -75.5162300184013,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -79.5265224938939,
+    "lat": -84.6064578551589,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 121.214751300081,
+    "lat": -89.8721086385337,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -166.14593707828,
+    "lat": -88.8867692980707,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 55.1343650701767,
+    "lat": -66.0348998008673,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -110.266432009844,
+    "lat": -88.2536215003219,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 15.6929145691337,
+    "lat": -69.939957817472,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -21.0654257954706,
+    "lat": -75.8275377946251,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -80.6229351271867,
+    "lat": -74.0758970177319,
+    "country": "Antarctica"
+  },
+  {
+    "lng": 168.46096787023,
+    "lat": -83.4396304605442,
+    "country": "Antarctica"
+  },
+  {
+    "lng": -128.322956568935,
+    "lat": -24.3622105839983,
+    "country": "Pitcairn Is."
+  },
+  {
+    "lng": -139.53041436575,
+    "lat": -8.91185179121075,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -149.207823435839,
+    "lat": -17.7378903839103,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -140.718501965672,
+    "lat": -17.7348761332755,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -149.508938397324,
+    "lat": -23.38565057584,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -145.2514393538,
+    "lat": -14.6723673263775,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -144.307036469468,
+    "lat": -27.6237708838581,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -134.971518112951,
+    "lat": -23.1055116757329,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": -154.526713770601,
+    "lat": -15.7928945026507,
+    "country": "Fr. Polynesia"
+  },
+  {
+    "lng": 68.9280229808351,
+    "lat": -48.9608148654482,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 51.7368430234153,
+    "lat": -46.4409511859311,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 40.3489086381334,
+    "lat": -22.3408475246118,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 77.5270816389233,
+    "lat": -37.8332960987035,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 42.7510378031599,
+    "lat": -17.0630850997883,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 47.3033098877357,
+    "lat": -11.5674974431807,
+    "country": "Fr. S. Antarctic Lands"
+  },
+  {
+    "lng": 46.437572273471,
+    "lat": -9.40372327931333,
+    "country": "Seychelles"
+  },
+  {
+    "lng": 55.5008645485053,
+    "lat": -4.75510103559573,
+    "country": "Seychelles"
+  },
+  {
+    "lng": -157.302058872613,
+    "lat": 1.79707841037701,
+    "country": "Kiribati"
+  },
+  {
+    "lng": -151.801288397529,
+    "lat": -11.4443811578917,
+    "country": "Kiribati"
+  },
+  {
+    "lng": 175.596430314153,
+    "lat": -1.89569401765031,
+    "country": "Kiribati"
+  },
+  {
+    "lng": -155.916947135113,
+    "lat": -5.62290549024081,
+    "country": "Kiribati"
+  },
+  {
+    "lng": -171.245587537047,
+    "lat": -4.44854140903623,
+    "country": "Kiribati"
+  },
+  {
+    "lng": 172.810266139337,
+    "lat": 3.044741636816,
+    "country": "Kiribati"
+  },
+  {
+    "lng": 169.530764832916,
+    "lat": -0.857765062058359,
+    "country": "Kiribati"
+  },
+  {
+    "lng": 171.71623524616,
+    "lat": 6.99365317475113,
+    "country": "Marshall Is."
+  },
+  {
+    "lng": 166.848706878506,
+    "lat": 11.159804813214,
+    "country": "Marshall Is."
+  },
+  {
+    "lng": 86.0799523744333,
+    "lat": 23.3605028405886,
+    "country": "India"
+  },
+  {
+    "lng": 80.0034660338618,
+    "lat": 17.1514603683259,
+    "country": "India"
+  },
+  {
+    "lng": 75.1810950504179,
+    "lat": 14.3732088982501,
+    "country": "India"
+  },
+  {
+    "lng": 76.9432831733051,
+    "lat": 23.2040752991767,
+    "country": "India"
+  },
+  {
+    "lng": 75.647977791002,
+    "lat": 29.9635089759158,
+    "country": "India"
+  },
+  {
+    "lng": 70.4724969682211,
+    "lat": 25.8179655435111,
+    "country": "India"
+  },
+  {
+    "lng": 92.93047228306,
+    "lat": 26.7913138429792,
+    "country": "India"
+  },
+  {
+    "lng": 81.8969650005926,
+    "lat": 26.5202168611938,
+    "country": "India"
+  },
+  {
+    "lng": 78.5148219982681,
+    "lat": 10.3839861230044,
+    "country": "India"
+  },
+  {
+    "lng": 78.1077853879929,
+    "lat": 35.057689546738,
+    "country": "India"
+  },
+  {
+    "lng": 92.650246696433,
+    "lat": 11.9777205380993,
+    "country": "India"
+  },
+  {
+    "lng": 73.5350849000916,
+    "lat": 19.192617321755,
+    "country": "India"
+  },
+  {
+    "lng": 93.6658390742688,
+    "lat": 7.06809200032404,
+    "country": "India"
+  },
+  {
+    "lng": -69.5646757052638,
+    "lat": 9.25772581300063,
+    "country": "Venezuela"
+  },
+  {
+    "lng": -60.7643651088392,
+    "lat": 7.89369242696033,
+    "country": "Venezuela"
+  },
+  {
+    "lng": -64.5956959825435,
+    "lat": 3.05349201590332,
+    "country": "Venezuela"
+  },
+  {
+    "lng": -64.5988615160596,
+    "lat": 11.869875768342,
+    "country": "Venezuela"
+  },
+  {
+    "lng": 2.58517604859408,
+    "lat": 46.765780586526,
+    "country": "France"
+  },
+  {
+    "lng": -52.7879481406696,
+    "lat": 4.84397751754778,
+    "country": "France"
+  },
+  {
+    "lng": 9.36487682823379,
+    "lat": 42.0501128371901,
+    "country": "France"
+  },
+  {
+    "lng": -1.41879965340724,
+    "lat": 43.6925037337256,
+    "country": "France"
+  },
+  {
+    "lng": -3.52919109736807,
+    "lat": 48.3925694402333,
+    "country": "France"
+  },
+  {
+    "lng": 7.85127765840221,
+    "lat": 48.8265899429315,
+    "country": "France"
+  },
+  {
+    "lng": 55.2763816189981,
+    "lat": -21.0545399568014,
+    "country": "France"
+  },
+  {
+    "lng": 45.1732840467601,
+    "lat": -12.8940332982308,
+    "country": "France"
+  },
+  {
+    "lng": -61.0701252299145,
+    "lat": 14.696228829091,
+    "country": "France"
+  },
+  {
+    "lng": -87.3102407718205,
+    "lat": 15.4119166413099,
+    "country": "Honduras"
+  },
+  {
+    "lng": -160.025777616501,
+    "lat": -0.38620189864463,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": -75.0141296585659,
+    "lat": 18.4060766348709,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": 166.638128838637,
+    "lat": 19.2879043724793,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": -169.545724199342,
+    "lat": 16.7214073812896,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": -162.078904451714,
+    "lat": 5.88187623213839,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": -177.374788671218,
+    "lat": 28.2015945736024,
+    "country": "U.S. Minor Outlying Is."
+  },
+  {
+    "lng": -64.6546557553739,
+    "lat": 18.409892921911,
+    "country": "British Virgin Is."
+  },
+  {
+    "lng": -82.8703304717722,
+    "lat": 22.9358207799552,
+    "country": "Cuba"
+  },
+  {
+    "lng": -76.8378607836701,
+    "lat": 20.1472555152355,
+    "country": "Cuba"
+  },
+  {
+    "lng": -73.170424485118,
+    "lat": 21.1028109121326,
+    "country": "Bahamas"
+  },
+  {
+    "lng": -77.1678774449474,
+    "lat": 26.3130030832284,
+    "country": "Bahamas"
+  },
+  {
+    "lng": -64.6702059594325,
+    "lat": 32.3782289318464,
+    "country": "Bermuda"
+  },
+  {
+    "lng": 23.3290944491202,
+    "lat": 38.4991164443877,
+    "country": "Greece"
+  },
+  {
+    "lng": 27.85917873684,
+    "lat": 36.262664278263,
+    "country": "Greece"
+  },
+  {
+    "lng": 12.870179168192,
+    "lat": 41.7637634064999,
+    "country": "Italy"
+  },
+  {
+    "lng": 10.0074528780121,
+    "lat": 45.9601780919511,
+    "country": "Italy"
+  },
+  {
+    "lng": 18.0977455564851,
+    "lat": 40.2452976493952,
+    "country": "Italy"
+  },
+  {
+    "lng": 8.51792323741862,
+    "lat": 39.2759572532028,
+    "country": "Italy"
+  },
+  {
+    "lng": -4.52382396660465,
+    "lat": 54.1773022201157,
+    "country": "Isle of Man"
+  },
+  {
+    "lng": -2.3839326385243,
+    "lat": 57.5764744023104,
+    "country": "United Kingdom"
+  },
+  {
+    "lng": 0.157542453477107,
+    "lat": 52.0582546487856,
+    "country": "United Kingdom"
+  },
+  {
+    "lng": -7.3441688728841,
+    "lat": 54.3226288575963,
+    "country": "United Kingdom"
+  },
+  {
+    "lng": 19.9217973060632,
+    "lat": 60.150784421418,
+    "country": "Åland"
+  },
+  {
+    "lng": -6.7316936341352,
+    "lat": 62.1378338022687,
+    "country": "Faeroe Is."
+  },
+  {
+    "lng": 72.4024486496851,
+    "lat": -7.29904674830184,
+    "country": "Br. Indian Ocean Ter."
+  },
+  {
+    "lng": 178.365512491668,
+    "lat": -19.0102642909876,
+    "country": "Fiji"
+  },
+  {
+    "lng": -178.313767895963,
+    "lat": -17.9155437513654,
+    "country": "Fiji"
+  },
+  {
+    "lng": 177.042955635546,
+    "lat": -12.4817310567072,
+    "country": "Fiji"
+  },
+  {
+    "lng": -157.716473222581,
+    "lat": -19.8202978998135,
+    "country": "Cook Is."
+  },
+  {
+    "lng": -157.970350428131,
+    "lat": -8.97478666377899,
+    "country": "Cook Is."
+  },
+  {
+    "lng": -165.815394278858,
+    "lat": -10.8822737826177,
+    "country": "Cook Is."
+  },
+  {
+    "lng": 179.207409018378,
+    "lat": -8.49082683400079,
+    "country": "Tuvalu"
+  },
+  {
+    "lng": 73.2023211910104,
+    "lat": 6.89107085837052,
+    "country": "Maldives"
+  },
+  {
+    "lng": 73.2338730901214,
+    "lat": -0.627774620805751,
+    "country": "Maldives"
+  },
+  {
+    "lng": 151.86187135165,
+    "lat": 7.35872337825506,
+    "country": "Micronesia"
+  },
+  {
+    "lng": 162.927390783146,
+    "lat": 5.28939164338208,
+    "country": "Micronesia"
+  },
+  {
+    "lng": 158.165646536033,
+    "lat": 6.82842309673753,
+    "country": "Micronesia"
+  },
+  {
+    "lng": 138.198687282194,
+    "lat": 9.52250442304627,
+    "country": "Micronesia"
+  },
+  {
+    "lng": 154.719252635321,
+    "lat": 0.965343629373067,
+    "country": "Micronesia"
+  },
+  {
+    "lng": -174.93818895001,
+    "lat": -21.3829982098742,
+    "country": "Tonga"
+  },
+  {
+    "lng": -173.761118998182,
+    "lat": -15.9624872215246,
+    "country": "Tonga"
+  },
+  {
+    "lng": 168.191622176863,
+    "lat": -15.7085330166721,
+    "country": "Vanuatu"
+  },
+  {
+    "lng": 50.4945738021564,
+    "lat": 25.994773044502,
+    "country": "Bahrain"
+  },
+  {
+    "lng": -172.493369135344,
+    "lat": -8.55369970688352,
+    "country": ""
+  },
+  {
+    "lng": 134.611686029315,
+    "lat": 7.60450004529893,
+    "country": "Palau"
+  },
+  {
+    "lng": 131.173592464111,
+    "lat": 3.04299430397072,
+    "country": "Palau"
+  },
+  {
+    "lng": 45.0845291049148,
+    "lat": 10.4534942422843,
+    "country": ""
+  },
+  {
+    "lng": 34.0049632772599,
+    "lat": 35.446027019492,
+    "country": ""
+  },
+  {
+    "lng": 63.9109733435232,
+    "lat": 46.0519731446323,
+    "country": ""
+  },
+  {
+    "lng": 77.3029579978222,
+    "lat": 35.4883843884325,
+    "country": ""
+  },
+  {
+    "lng": 105.68155921418,
+    "lat": -10.4719217853393,
+    "country": ""
+  },
+  {
+    "lng": -75.2094003707791,
+    "lat": 19.9040551099009,
+    "country": ""
+  },
+  {
+    "lng": 96.859361023222,
+    "lat": -12.1845409493333,
+    "country": ""
+  },
+  {
+    "lng": 113.535831081356,
+    "lat": 22.1535975297742,
+    "country": "Macao"
+  },
+  {
+    "lng": 123.377659356939,
+    "lat": -25.2695804162805,
+    "country": "Australia"
+  },
+  {
+    "lng": 114.528314556436,
+    "lat": -23.6126869370978,
+    "country": "Australia"
+  },
+  {
+    "lng": 140.017254323312,
+    "lat": -18.4301036470465,
+    "country": "Australia"
+  },
+  {
+    "lng": 134.619992075776,
+    "lat": -22.276956096703,
+    "country": "Australia"
+  },
+  {
+    "lng": 139.11609253356,
+    "lat": -28.5811693818583,
+    "country": "Australia"
+  },
+  {
+    "lng": 123.120731648453,
+    "lat": -33.8520758805935,
+    "country": "Australia"
+  },
+  {
+    "lng": 118.503884387206,
+    "lat": -29.7057748254431,
+    "country": "Australia"
+  },
+  {
+    "lng": 149.246276725847,
+    "lat": -37.6686013411959,
+    "country": "Australia"
+  },
+  {
+    "lng": 147.210038453718,
+    "lat": -31.7762554153276,
+    "country": "Australia"
+  },
+  {
+    "lng": 140.462281512823,
+    "lat": -34.6037213178866,
+    "country": "Australia"
+  },
+  {
+    "lng": 134.133593080768,
+    "lat": -27.7374238340541,
+    "country": "Australia"
+  },
+  {
+    "lng": 131.993795908044,
+    "lat": -16.4723909036766,
+    "country": "Australia"
+  },
+  {
+    "lng": 135.206538838697,
+    "lat": -32.754121280314,
+    "country": "Australia"
+  },
+  {
+    "lng": 125.756477797168,
+    "lat": -16.7234864843748,
+    "country": "Australia"
+  },
+  {
+    "lng": 116.933169461958,
+    "lat": -34.8584854216096,
+    "country": "Australia"
+  },
+  {
+    "lng": 144.718301414793,
+    "lat": -25.0077892775017,
+    "country": "Australia"
+  },
+  {
+    "lng": 150.589372451614,
+    "lat": -24.7427854541157,
+    "country": "Australia"
+  },
+  {
+    "lng": 145.506033192765,
+    "lat": -19.5648135597858,
+    "country": "Australia"
+  },
+  {
+    "lng": 128.474527707245,
+    "lat": -28.5832659954158,
+    "country": "Australia"
+  },
+  {
+    "lng": 128.821561304433,
+    "lat": -21.2449134398006,
+    "country": "Australia"
+  },
+  {
+    "lng": 119.541578101425,
+    "lat": -20.6147799898733,
+    "country": "Australia"
+  },
+  {
+    "lng": 142.48165089726,
+    "lat": -11.4245223678505,
+    "country": "Australia"
+  },
+  {
+    "lng": 153.027435704945,
+    "lat": -29.3574722452381,
+    "country": "Australia"
+  },
+  {
+    "lng": 136.25298245088,
+    "lat": -11.6508725845463,
+    "country": "Australia"
+  },
+  {
+    "lng": 145.72191673908,
+    "lat": -42.4713225992207,
+    "country": "Australia"
+  },
+  {
+    "lng": 131.077341867376,
+    "lat": -11.4871894551849,
+    "country": "Australia"
+  },
+  {
+    "lng": 139.480466355322,
+    "lat": -23.5797943903824,
+    "country": "Australia"
+  },
+  {
+    "lng": 27.9923061142492,
+    "lat": 22.1935514628199,
+    "country": "Egypt"
+  },
+  {
+    "lng": 32.4693757621863,
+    "lat": 30.2812545095249,
+    "country": "Egypt"
+  },
+  {
+    "lng": 32.903460883166,
+    "lat": 25.1797878979944,
+    "country": "Egypt"
+  },
+  {
+    "lng": 27.5735260160092,
+    "lat": 27.7272854834304,
+    "country": "Egypt"
+  },
+  {
+    "lng": 22.280031901068,
+    "lat": 1.03499238342115,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 18.9438490649246,
+    "lat": -6.91667655940148,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 26.6905125031056,
+    "lat": -11.2806828066443,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 14.3110058895984,
+    "lat": -4.30402829048186,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 29.0793983939088,
+    "lat": 3.92487444839503,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 27.5663694260199,
+    "lat": -4.19889362878809,
+    "country": "Dem. Rep. Congo"
+  },
+  {
+    "lng": 18.9583789484942,
+    "lat": 21.3654819720648,
+    "country": "Chad"
+  },
+  {
+    "lng": 20.7163941556875,
+    "lat": 9.71225530569293,
+    "country": "Chad"
+  },
+  {
+    "lng": 20.8291461354377,
+    "lat": 14.9810700584332,
+    "country": "Chad"
+  },
+  {
+    "lng": 15.766284353251,
+    "lat": 11.0467841811165,
+    "country": "Chad"
+  },
+  {
+    "lng": 15.4247451714499,
+    "lat": 16.3215004586406,
+    "country": "Chad"
+  },
+  {
+    "lng": 23.5724582672884,
+    "lat": 19.2939238868761,
+    "country": "Chad"
+  },
+  {
+    "lng": 56.3080504249727,
+    "lat": 18.2315457538301,
+    "country": "Oman"
+  },
+  {
+    "lng": 57.5475209777777,
+    "lat": 23.6670680801894,
+    "country": "Oman"
+  },
+  {
+    "lng": 75.6977602279392,
+    "lat": 44.6634385548555,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 51.14991310607,
+    "lat": 49.5509429289978,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 64.8672851424368,
+    "lat": 53.0841488870798,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 76.0666927716132,
+    "lat": 52.933587832038,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 70.3494566724892,
+    "lat": 43.508266872572,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 70.5837928600777,
+    "lat": 51.2502195380546,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 59.056994943437,
+    "lat": 46.9317366336029,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 83.8181838843922,
+    "lat": 50.0760053563718,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 53.1970235872423,
+    "lat": 44.1887543123011,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 64.8679713860048,
+    "lat": 45.0972223710728,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 80.8806949508164,
+    "lat": 45.6283927674678,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 59.995384282523,
+    "lat": 51.9555090060718,
+    "country": "Kazakhstan"
+  },
+  {
+    "lng": 35.7388489281643,
+    "lat": 33.6984997180804,
+    "country": "Lebanon"
+  },
+  {
+    "lng": 36.5412928928776,
+    "lat": 33.0419145926086,
+    "country": "Syria"
+  },
+  {
+    "lng": 41.8258334205161,
+    "lat": 36.686640936121,
+    "country": "Syria"
+  },
+  {
+    "lng": 51.8710386803964,
+    "lat": 23.956157524012,
+    "country": "United Arab Emirates"
+  },
+  {
+    "lng": 24.4176706812403,
+    "lat": 59.4407911850433,
+    "country": "Estonia"
+  },
+  {
+    "lng": 24.7618887610523,
+    "lat": 56.709485514049,
+    "country": "Latvia"
+  },
+  {
+    "lng": 23.8165714661617,
+    "lat": 55.818449645181,
+    "country": "Lithuania"
+  },
+  {
+    "lng": 20.9895364400164,
+    "lat": 41.8372002011975,
+    "country": "Macedonia"
+  },
+  {
+    "lng": 20.0659154412846,
+    "lat": 40.8117380296141,
+    "country": "Albania"
+  },
+  {
+    "lng": 46.6204782967098,
+    "lat": 40.7385813379548,
+    "country": "Azerbaijan"
+  },
+  {
+    "lng": 42.4486561849953,
+    "lat": 42.0199023932139,
+    "country": "Georgia"
+  },
+  {
+    "lng": 44.1828912178693,
+    "lat": 40.3687852626414,
+    "country": "Armenia"
+  },
+  {
+    "lng": -61.3251189334538,
+    "lat": 0.984611533829519,
+    "country": "Brazil"
+  },
+  {
+    "lng": -48.3715821768061,
+    "lat": -12.7242422289706,
+    "country": "Brazil"
+  },
+  {
+    "lng": -55.6452713811201,
+    "lat": -21.581840892134,
+    "country": "Brazil"
+  },
+  {
+    "lng": -52.4785504892845,
+    "lat": 1.92946660269088,
+    "country": "Brazil"
+  },
+  {
+    "lng": -68.6788428242406,
+    "lat": -8.16113106723678,
+    "country": "Brazil"
+  },
+  {
+    "lng": -52.9273593888628,
+    "lat": -30.4922309894707,
+    "country": "Brazil"
+  },
+  {
+    "lng": -52.5692215254059,
+    "lat": -6.92003273828289,
+    "country": "Brazil"
+  },
+  {
+    "lng": -41.7090385348707,
+    "lat": -4.00834352169029,
+    "country": "Brazil"
+  },
+  {
+    "lng": -68.7423159394153,
+    "lat": -2.96406490146291,
+    "country": "Brazil"
+  },
+  {
+    "lng": -54.0220803313784,
+    "lat": -13.5420263257788,
+    "country": "Brazil"
+  },
+  {
+    "lng": -61.2978557056613,
+    "lat": -12.5460135061815,
+    "country": "Brazil"
+  },
+  {
+    "lng": -40.8877052777783,
+    "lat": -13.4898059674401,
+    "country": "Brazil"
+  },
+  {
+    "lng": -40.4100420102111,
+    "lat": -20.1225553829433,
+    "country": "Brazil"
+  },
+  {
+    "lng": -49.9989502573779,
+    "lat": -19.58438283761,
+    "country": "Brazil"
+  },
+  {
+    "lng": -47.5074901341671,
+    "lat": -4.90083271384049,
+    "country": "Brazil"
+  },
+  {
+    "lng": -48.076483349242,
+    "lat": -25.0631208622519,
+    "country": "Brazil"
+  },
+  {
+    "lng": -62.494742208825,
+    "lat": -7.00234339859625,
+    "country": "Brazil"
+  },
+  {
+    "lng": -56.7921030184359,
+    "lat": -2.1507275705502,
+    "country": "Brazil"
+  },
+  {
+    "lng": -37.8694008166764,
+    "lat": -8.56639735344386,
+    "country": "Brazil"
+  },
+  {
+    "lng": -44.2721217791009,
+    "lat": -8.80786179589071,
+    "country": "Brazil"
+  },
+  {
+    "lng": -45.5323356716609,
+    "lat": -17.0431269351371,
+    "country": "Brazil"
+  },
+  {
+    "lng": -57.4074369676288,
+    "lat": -8.46276088729199,
+    "country": "Brazil"
+  },
+  {
+    "lng": -58.2836961760721,
+    "lat": -16.7714141671869,
+    "country": "Brazil"
+  },
+  {
+    "lng": -73.6406888792655,
+    "lat": -6.97235061896868,
+    "country": "Brazil"
+  },
+  {
+    "lng": -67.592630829299,
+    "lat": 1.91457951020259,
+    "country": "Brazil"
+  },
+  {
+    "lng": -8.67938303019941,
+    "lat": 52.6979004804801,
+    "country": "Ireland"
+  },
+  {
+    "lng": -11.254118448127,
+    "lat": 8.5845514345001,
+    "country": "Sierra Leone"
+  },
+  {
+    "lng": -11.5944736273768,
+    "lat": 9.99610354957129,
+    "country": "Guinea"
+  },
+  {
+    "lng": 16.3248372758989,
+    "lat": 5.68250239249975,
+    "country": "Central African Rep."
+  },
+  {
+    "lng": 22.6957211935749,
+    "lat": 9.95410729904682,
+    "country": "Central African Rep."
+  },
+  {
+    "lng": 27.1588189928113,
+    "lat": 5.21148925798001,
+    "country": "Central African Rep."
+  },
+  {
+    "lng": 22.0602732110217,
+    "lat": 4.63722176595165,
+    "country": "Central African Rep."
+  },
+  {
+    "lng": 34.4348148727655,
+    "lat": 11.8051755934415,
+    "country": "Sudan"
+  },
+  {
+    "lng": 25.3918245206571,
+    "lat": 15.2404175678391,
+    "country": "Sudan"
+  },
+  {
+    "lng": 32.7964350948211,
+    "lat": 19.6610116991045,
+    "country": "Sudan"
+  },
+  {
+    "lng": 23.3696562691373,
+    "lat": 10.4037537790859,
+    "country": "Sudan"
+  },
+  {
+    "lng": 30.5037320070999,
+    "lat": 15.133593392946,
+    "country": "Sudan"
+  },
+  {
+    "lng": 28.0651014327098,
+    "lat": 21.2993016624106,
+    "country": "Sudan"
+  },
+  {
+    "lng": 28.6991912178752,
+    "lat": 10.2644160340915,
+    "country": "Sudan"
+  },
+  {
+    "lng": 37.7520322291901,
+    "lat": 18.1903926735302,
+    "country": "Sudan"
+  },
+  {
+    "lng": 43.3339917734101,
+    "lat": 12.3401506905705,
+    "country": "Djibouti"
+  },
+  {
+    "lng": 31.7786940936886,
+    "lat": -12.4445140173069,
+    "country": "Zambia"
+  },
+  {
+    "lng": 23.6421866092566,
+    "lat": -16.5352139983354,
+    "country": "Zambia"
+  },
+  {
+    "lng": 24.0402245682206,
+    "lat": -11.1927934115041,
+    "country": "Zambia"
+  },
+  {
+    "lng": 28.6748293490111,
+    "lat": -16.50117952838,
+    "country": "Zambia"
+  },
+  {
+    "lng": 14.7244476852279,
+    "lat": 46.7651492102029,
+    "country": "Austria"
+  },
+  {
+    "lng": 9.63078109776002,
+    "lat": 47.5082337562471,
+    "country": "Austria"
+  },
+  {
+    "lng": 9.5684377242659,
+    "lat": 47.1005874140297,
+    "country": "Liechtenstein"
+  },
+  {
+    "lng": 6.67352111162215,
+    "lat": 11.103784148146,
+    "country": "Nigeria"
+  },
+  {
+    "lng": 11.3222203193493,
+    "lat": 9.11542599608218,
+    "country": "Nigeria"
+  },
+  {
+    "lng": 3.1435224365897,
+    "lat": 7.16049418269562,
+    "country": "Nigeria"
+  },
+  {
+    "lng": 8.17812240113005,
+    "lat": 4.57694169586743,
+    "country": "Nigeria"
+  },
+  {
+    "lng": 13.456831892352,
+    "lat": 13.6885250542845,
+    "country": "Nigeria"
+  },
+  {
+    "lng": 1.2753109127463,
+    "lat": 11.1958461436633,
+    "country": "Benin"
+  },
+  {
+    "lng": 2.58683587382845,
+    "lat": 6.35943240142865,
+    "country": "Benin"
+  },
+  {
+    "lng": 15.6800496596539,
+    "lat": 46.0309189194358,
+    "country": "Slovenia"
+  },
+  {
+    "lng": 21.9530194022489,
+    "lat": 47.4030177339666,
+    "country": "Hungary"
+  },
+  {
+    "lng": 16.912325333814,
+    "lat": 46.9536369367438,
+    "country": "Hungary"
+  },
+  {
+    "lng": 101.252663442887,
+    "lat": 14.179792996769,
+    "country": "Thailand"
+  },
+  {
+    "lng": 100.543998719067,
+    "lat": 7.06210429002197,
+    "country": "Thailand"
+  },
+  {
+    "lng": 100.615747484854,
+    "lat": 19.1938816564953,
+    "country": "Thailand"
+  },
+  {
+    "lng": 12.4199384204395,
+    "lat": 43.9328531318979,
+    "country": "San Marino"
+  },
+  {
+    "lng": -68.862199356741,
+    "lat": 18.7103449555751,
+    "country": "Dominican Rep."
+  },
+  {
+    "lng": -72.1963720542152,
+    "lat": 18.7031082808263,
+    "country": "Haiti"
+  },
+  {
+    "lng": 47.1880854799663,
+    "lat": 29.901040035651,
+    "country": "Kuwait"
+  },
+  {
+    "lng": 42.9704537734772,
+    "lat": 31.9982490178478,
+    "country": "Iraq"
+  },
+  {
+    "lng": 46.2632292192711,
+    "lat": 35.7910773800766,
+    "country": "Iraq"
+  },
+  {
+    "lng": 47.8638745683808,
+    "lat": 30.1389460956434,
+    "country": "Iraq"
+  },
+  {
+    "lng": 1.54361896266982,
+    "lat": 42.6126279882545,
+    "country": "Andorra"
+  },
+  {
+    "lng": 20.8209365657609,
+    "lat": 42.373109894234,
+    "country": "Kosovo"
+  },
+  {
+    "lng": 30.0978051440165,
+    "lat": -2.10317402600396,
+    "country": "Rwanda"
+  },
+  {
+    "lng": 34.2058287006905,
+    "lat": 1.96432204350453,
+    "country": "Uganda"
+  },
+  {
+    "lng": 29.7833412204515,
+    "lat": -0.850584267610616,
+    "country": "Uganda"
+  },
+  {
+    "lng": 20.0629120052391,
+    "lat": 44.2650020361475,
+    "country": "Serbia"
+  },
+  {
+    "lng": 19.3245577638806,
+    "lat": 42.0268294520556,
+    "country": "Montenegro"
+  },
+  {
+    "lng": -88.8609248437511,
+    "lat": 14.0831522213039,
+    "country": "El Salvador"
+  },
+  {
+    "lng": 5.18745325949154,
+    "lat": 50.4474870939708,
+    "country": "Belgium"
+  },
+  {
+    "lng": 8.82338628854324,
+    "lat": 47.2453088750975,
+    "country": "Switzerland"
+  },
+  {
+    "lng": 16.6907866985641,
+    "lat": 45.1524958187695,
+    "country": "Bosnia and Herz."
+  },
+  {
+    "lng": 19.0140151508391,
+    "lat": 48.415814589641,
+    "country": "Slovakia"
+  },
+  {
+    "lng": 13.3425768918027,
+    "lat": 49.8518451971322,
+    "country": "Czechia"
+  },
+  {
+    "lng": 18.819717522088,
+    "lat": 49.5375456399911,
+    "country": "Czechia"
+  },
+  {
+    "lng": 22.7207278960227,
+    "lat": 42.501139725283,
+    "country": "Bulgaria"
+  },
+  {
+    "lng": 28.0841073886549,
+    "lat": 43.4727851167588,
+    "country": "Bulgaria"
+  },
+  {
+    "lng": 23.2058757914424,
+    "lat": 47.7416981074787,
+    "country": "Romania"
+  },
+  {
+    "lng": 29.0228415345113,
+    "lat": 45.0447599867284,
+    "country": "Romania"
+  },
+  {
+    "lng": 27.4039925380683,
+    "lat": 48.0955467114519,
+    "country": "Moldova"
+  },
+  {
+    "lng": 36.0445187094129,
+    "lat": 45.3005856673007,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 33.1738032165771,
+    "lat": 49.6173255869516,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 26.5015004872555,
+    "lat": 51.4424045392538,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 38.5633397098848,
+    "lat": 49.6437211613437,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 22.3759387739524,
+    "lat": 48.3566247367509,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 28.9847566612866,
+    "lat": 46.3869532142205,
+    "country": "Ukraine"
+  },
+  {
+    "lng": 54.5145062799868,
+    "lat": 28.6026228149789,
+    "country": "Iran"
+  },
+  {
+    "lng": 45.9161063459088,
+    "lat": 36.3100615221201,
+    "country": "Iran"
+  },
+  {
+    "lng": 59.5921882867269,
+    "lat": 35.5859914848273,
+    "country": "Iran"
+  },
+  {
+    "lng": 60.0837635183837,
+    "lat": 25.4883420061913,
+    "country": "Iran"
+  },
+  {
+    "lng": 51.0778371171021,
+    "lat": 34.8613459975355,
+    "country": "Iran"
+  },
+  {
+    "lng": 61.3189232710457,
+    "lat": 30.3712354440247,
+    "country": "Iran"
+  },
+  {
+    "lng": 48.1461248908924,
+    "lat": 30.6325270578979,
+    "country": "Iran"
+  },
+  {
+    "lng": 55.1197334847395,
+    "lat": 37.8510656808917,
+    "country": "Iran"
+  },
+  {
+    "lng": 33.9047001752379,
+    "lat": -7.91325810648007,
+    "country": "Tanzania"
+  },
+  {
+    "lng": 35.7785127794505,
+    "lat": -2.78852554421913,
+    "country": "Tanzania"
+  },
+  {
+    "lng": 39.6002126329323,
+    "lat": -10.5513388164996,
+    "country": "Tanzania"
+  },
+  {
+    "lng": 30.7359921907447,
+    "lat": -2.81564851620003,
+    "country": "Tanzania"
+  },
+  {
+    "lng": 30.0599478190751,
+    "lat": -3.78516014006408,
+    "country": "Burundi"
+  },
+  {
+    "lng": 33.4449573861796,
+    "lat": 8.34550084841024,
+    "country": "Ethiopia"
+  },
+  {
+    "lng": 43.8741469827524,
+    "lat": 5.25157778335567,
+    "country": "Ethiopia"
+  },
+  {
+    "lng": 38.4645873094565,
+    "lat": 6.77964225122174,
+    "country": "Ethiopia"
+  },
+  {
+    "lng": 37.996916488641,
+    "lat": 13.7979025512864,
+    "country": "Ethiopia"
+  },
+  {
+    "lng": 42.8866373997966,
+    "lat": 10.9309319047323,
+    "country": "Ethiopia"
+  },
+  {
+    "lng": 25.9837919964657,
+    "lat": 7.65517169375896,
+    "country": "S. Sudan"
+  },
+  {
+    "lng": 31.1229566885486,
+    "lat": 8.3302967343889,
+    "country": "S. Sudan"
+  },
+  {
+    "lng": 35.7222104534397,
+    "lat": 5.2366880787515,
+    "country": "S. Sudan"
+  },
+  {
+    "lng": 10.9346814321269,
+    "lat": -1.19940886096202,
+    "country": "Gabon"
+  },
+  {
+    "lng": -1.82489097431932,
+    "lat": 5.09555367705874,
+    "country": "Ghana"
+  },
+  {
+    "lng": -1.23778423386033,
+    "lat": 10.5165461990867,
+    "country": "Ghana"
+  },
+  {
+    "lng": -4.98252176925261,
+    "lat": 9.40888425709737,
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "lng": -7.3917568384515,
+    "lat": 4.6016319946302,
+    "country": "Côte d'Ivoire"
+  },
+  {
+    "lng": -5.34179886809758,
+    "lat": 36.1306494858766,
+    "country": "Gibraltar"
+  },
+  {
+    "lng": -5.8965814693444,
+    "lat": 40.9867807844347,
+    "country": "Spain"
+  },
+  {
+    "lng": -0.000485723592598,
+    "lat": 40.038837847215,
+    "country": "Spain"
+  },
+  {
+    "lng": -14.0265548708962,
+    "lat": 28.3628312414516,
+    "country": "Spain"
+  },
+  {
+    "lng": -2.95690179933869,
+    "lat": 35.3091859870181,
+    "country": "Spain"
+  },
+  {
+    "lng": -89.6668705135775,
+    "lat": 14.7422826006423,
+    "country": "Guatemala"
+  },
+  {
+    "lng": -83.9470314370039,
+    "lat": 9.93776445457408,
+    "country": "Costa Rica"
+  },
+  {
+    "lng": -87.077880767614,
+    "lat": 5.5394144530569,
+    "country": "Costa Rica"
+  },
+  {
+    "lng": -73.4741437760899,
+    "lat": 9.05389696521279,
+    "country": "Colombia"
+  },
+  {
+    "lng": -76.0875925650493,
+    "lat": 4.01781286999521,
+    "country": "Colombia"
+  },
+  {
+    "lng": -72.3599148161188,
+    "lat": -1.85575167023822,
+    "country": "Colombia"
+  },
+  {
+    "lng": -68.4832748791368,
+    "lat": 4.92990782645351,
+    "country": "Colombia"
+  },
+  {
+    "lng": 56.6288940925346,
+    "lat": 41.3648649299018,
+    "country": "Uzbekistan"
+  },
+  {
+    "lng": 65.7807770784509,
+    "lat": 38.7000028470079,
+    "country": "Uzbekistan"
+  },
+  {
+    "lng": 63.3049837692433,
+    "lat": 43.5412075601604,
+    "country": "Uzbekistan"
+  },
+  {
+    "lng": 72.1575177020495,
+    "lat": 41.0761363746148,
+    "country": "Uzbekistan"
+  },
+  {
+    "lng": 64.289909588214,
+    "lat": 29.5743645918619,
+    "country": "Afghanistan"
+  },
+  {
+    "lng": 70.0624925286594,
+    "lat": 35.4002467412423,
+    "country": "Afghanistan"
+  },
+  {
+    "lng": 62.1184256742556,
+    "lat": 35.2602818942092,
+    "country": "Afghanistan"
+  },
+  {
+    "lng": 74.7524971317966,
+    "lat": 37.3120632311661,
+    "country": "Afghanistan"
+  },
+  {
+    "lng": 36.9082488779886,
+    "lat": 31.5001169126317,
+    "country": "Jordan"
+  },
+  {
+    "lng": 50.5520545858761,
+    "lat": 16.9952728178831,
+    "country": "Yemen"
+  },
+  {
+    "lng": 44.5489871871709,
+    "lat": 15.9055104869978,
+    "country": "Yemen"
+  },
+  {
+    "lng": 53.6491871529007,
+    "lat": 12.3494873970298,
+    "country": "Yemen"
+  },
+  {
+    "lng": 1.47158651180442,
+    "lat": 29.6773160606004,
+    "country": "Algeria"
+  },
+  {
+    "lng": 7.39845347910096,
+    "lat": 23.6709856764699,
+    "country": "Algeria"
+  },
+  {
+    "lng": 7.77758858355623,
+    "lat": 35.3549588808981,
+    "country": "Algeria"
+  },
+  {
+    "lng": -1.20814488516911,
+    "lat": 34.4943216323508,
+    "country": "Algeria"
+  },
+  {
+    "lng": 2.76882914821864,
+    "lat": 21.0921122897373,
+    "country": "Algeria"
+  },
+  {
+    "lng": -5.60046116999587,
+    "lat": 29.4078827192114,
+    "country": "Algeria"
+  },
+  {
+    "lng": -2.26848046013457,
+    "lat": 24.2849800913553,
+    "country": "Algeria"
+  },
+  {
+    "lng": 7.27788926153422,
+    "lat": 29.3721464479246,
+    "country": "Algeria"
+  },
+  {
+    "lng": -10.6206494415304,
+    "lat": 20.4961613240838,
+    "country": "Mauritania"
+  },
+  {
+    "lng": -15.8428969695686,
+    "lat": 17.4036958747248,
+    "country": "Mauritania"
+  },
+  {
+    "lng": -9.83705729776073,
+    "lat": 25.6726251245541,
+    "country": "Mauritania"
+  },
+  {
+    "lng": -8.87797207533854,
+    "lat": 15.6357361130179,
+    "country": "Mauritania"
+  },
+  {
+    "lng": -13.7287724022912,
+    "lat": 13.2557623440949,
+    "country": "Senegal"
+  },
+  {
+    "lng": -14.1514628447775,
+    "lat": 12.1006910185279,
+    "country": "Guinea-Bissau"
+  },
+  {
+    "lng": 49.6199961825242,
+    "lat": 11.2513079149604,
+    "country": "Somalia"
+  },
+  {
+    "lng": 45.7155981853252,
+    "lat": 5.05590973864739,
+    "country": "Somalia"
+  },
+  {
+    "lng": 41.8032627818613,
+    "lat": 0.823853585431798,
+    "country": "Somalia"
+  },
+  {
+    "lng": 40.8194043153818,
+    "lat": 0.567142271962344,
+    "country": "Kenya"
+  },
+  {
+    "lng": 34.3073479056649,
+    "lat": 0.221734058065911,
+    "country": "Kenya"
+  },
+  {
+    "lng": 38.6213969212679,
+    "lat": -4.16068266614851,
+    "country": "Kenya"
+  },
+  {
+    "lng": 14.0982003147748,
+    "lat": 2.59996602510243,
+    "country": "Cameroon"
+  },
+  {
+    "lng": 10.6090599668289,
+    "lat": 7.04606855269529,
+    "country": "Cameroon"
+  },
+  {
+    "lng": 14.9501681328998,
+    "lat": 10.9716333839215,
+    "country": "Cameroon"
+  },
+  {
+    "lng": 10.8619513206837,
+    "lat": 2.03305802614641,
+    "country": "Eq. Guinea"
+  },
+  {
+    "lng": 5.63399871448934,
+    "lat": -1.44743334991486,
+    "country": "Eq. Guinea"
+  },
+  {
+    "lng": 15.7731751843618,
+    "lat": -25.6710713404182,
+    "country": "Namibia"
+  },
+  {
+    "lng": 13.3865057524034,
+    "lat": -19.2549790624799,
+    "country": "Namibia"
+  },
+  {
+    "lng": 18.7879175499097,
+    "lat": -19.28084561032,
+    "country": "Namibia"
+  },
+  {
+    "lng": 24.3015652594589,
+    "lat": -17.5850758203738,
+    "country": "Namibia"
+  },
+  {
+    "lng": -14.7682827215999,
+    "lat": 13.4107176971025,
+    "country": "Gambia"
+  },
+  {
+    "lng": 1.08546654758707,
+    "lat": 9.09693261674954,
+    "country": "Togo"
+  },
+  {
+    "lng": -4.42902868580227,
+    "lat": 10.2819076384038,
+    "country": "Burkina Faso"
+  },
+  {
+    "lng": 1.23942019306586,
+    "lat": 12.4302493324171,
+    "country": "Burkina Faso"
+  },
+  {
+    "lng": 34.4374523572589,
+    "lat": -15.6880998508329,
+    "country": "Malawi"
+  },
+  {
+    "lng": 34.3398385025313,
+    "lat": -10.2370029374453,
+    "country": "Malawi"
+  },
+  {
+    "lng": 36.35113182549,
+    "lat": -14.9500501976186,
+    "country": "Mozambique"
+  },
+  {
+    "lng": 34.6020190351259,
+    "lat": -20.4682932065227,
+    "country": "Mozambique"
+  },
+  {
+    "lng": 31.0398121353665,
+    "lat": -15.8254860602857,
+    "country": "Mozambique"
+  },
+  {
+    "lng": 40.0143274705051,
+    "lat": -11.1475109804371,
+    "country": "Mozambique"
+  },
+  {
+    "lng": 32.2982841295323,
+    "lat": -26.4574418034565,
+    "country": "Mozambique"
+  },
+  {
+    "lng": 113.99026073833,
+    "lat": 22.4403782528085,
+    "country": "Hong Kong"
+  },
+  {
+    "lng": 32.607019730082,
+    "lat": 35.1437166831483,
+    "country": "Cyprus"
+  },
+  {
+    "lng": 17.5892401251221,
+    "lat": 3.4255022798225,
+    "country": "Congo"
+  },
+  {
+    "lng": 14.4106039916756,
+    "lat": -3.20463156005501,
+    "country": "Congo"
+  },
+  {
+    "lng": 51.4098512101493,
+    "lat": 25.0894796476828,
+    "country": "Qatar"
+  },
+  {
+    "lng": 127.557151208807,
+    "lat": 34.8739950420314,
+    "country": "South Korea"
+  },
+  {
+    "lng": 29.9149877845446,
+    "lat": 38.5903974443572,
+    "country": "Turkey"
+  },
+  {
+    "lng": 38.3768052250192,
+    "lat": 37.3445794384093,
+    "country": "Turkey"
+  },
+  {
+    "lng": 43.8281176202824,
+    "lat": 38.3869150435103,
+    "country": "Turkey"
+  },
+  {
+    "lng": 34.7301580902605,
+    "lat": 40.9597894633929,
+    "country": "Turkey"
+  },
+  {
+    "lng": -61.3315635674619,
+    "lat": 10.1508718044123,
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "lng": -61.4319673126578,
+    "lat": 12.4561905673725,
+    "country": "Grenada"
+  },
+  {
+    "lng": -59.6055267835051,
+    "lat": 13.3247288313903,
+    "country": "Barbados"
+  },
+  {
+    "lng": -61.2396471359417,
+    "lat": 13.2162614474268,
+    "country": "St. Vin. and Gren."
+  },
+  {
+    "lng": -61.0364461760484,
+    "lat": 13.9261338927851,
+    "country": "Saint Lucia"
+  },
+  {
+    "lng": -61.2785677756733,
+    "lat": 15.3041018879367,
+    "country": "Dominica"
+  },
+  {
+    "lng": -61.7241505120591,
+    "lat": 17.0723897745243,
+    "country": "Antigua and Barb."
+  },
+  {
+    "lng": -62.8478161676301,
+    "lat": 17.3639316298445,
+    "country": "St. Kitts and Nevis"
+  },
+  {
+    "lng": -63.0321043489159,
+    "lat": 18.2237268788571,
+    "country": "Anguilla"
+  },
+  {
+    "lng": -77.2835011826556,
+    "lat": 18.188662794734,
+    "country": "Jamaica"
+  },
+  {
+    "lng": 63.4190031486086,
+    "lat": -19.729408624678,
+    "country": "Mauritius"
+  },
+  {
+    "lng": 57.4646618837723,
+    "lat": -20.2890187961844,
+    "country": "Mauritius"
+  },
+  {
+    "lng": 56.5423206239466,
+    "lat": -10.3536140710822,
+    "country": "Mauritius"
+  },
+  {
+    "lng": 14.3396167113399,
+    "lat": 35.9718845883984,
+    "country": "Malta"
+  },
+  {
+    "lng": 103.837268088772,
+    "lat": 1.32253186373067,
+    "country": "Singapore"
+  },
+  {
+    "lng": -172.356002275496,
+    "lat": -13.5421835839433,
+    "country": "Samoa"
+  },
+  {
+    "lng": 166.94944890832,
+    "lat": -0.513374941608777,
+    "country": "Nauru"
+  },
+  {
+    "lng": 168.906676894694,
+    "lat": -46.4803034898939,
+    "country": "New Zealand"
+  },
+  {
+    "lng": 174.069903561797,
+    "lat": -36.0564637489976,
+    "country": "New Zealand"
+  },
+  {
+    "lng": 172.801446699783,
+    "lat": -41.648091261562,
+    "country": "New Zealand"
+  },
+  {
+    "lng": -176.515107892784,
+    "lat": -43.8053249550113,
+    "country": "New Zealand"
+  },
+  {
+    "lng": 166.150530263083,
+    "lat": -50.7339899336569,
+    "country": "New Zealand"
+  },
+  {
+    "lng": 178.831025847844,
+    "lat": -49.654770459515,
+    "country": "New Zealand"
+  },
+  {
+    "lng": -177.905884243779,
+    "lat": -29.2392323748671,
+    "country": "New Zealand"
+  },
+  {
+    "lng": -74.0054062005204,
+    "lat": -14.3908426946729,
+    "country": "Peru"
+  },
+  {
+    "lng": -77.8312892689057,
+    "lat": -10.0360078935852,
+    "country": "Peru"
+  },
+  {
+    "lng": -71.7219087750966,
+    "lat": -3.71949144277785,
+    "country": "Peru"
+  },
+  {
+    "lng": -79.4087956149787,
+    "lat": -4.95020728843858,
+    "country": "Peru"
+  },
+  {
+    "lng": -69.2452676009128,
+    "lat": -12.3020977276642,
+    "country": "Peru"
+  },
+  {
+    "lng": -69.8806320309325,
+    "lat": -17.5063175052041,
+    "country": "Peru"
+  },
+  {
+    "lng": -75.5642582418238,
+    "lat": -0.172132897990327,
+    "country": "Peru"
+  },
+  {
+    "lng": -84.6639813827759,
+    "lat": 11.1770981290976,
+    "country": "Nicaragua"
+  },
+  {
+    "lng": 44.1286789337005,
+    "lat": -23.0753099903234,
+    "country": "Madagascar"
+  },
+  {
+    "lng": 48.843488488957,
+    "lat": -19.485356687012,
+    "country": "Madagascar"
+  },
+  {
+    "lng": 44.7206283476593,
+    "lat": -16.4191205573266,
+    "country": "Madagascar"
+  },
+  {
+    "lng": 49.7258680948807,
+    "lat": -13.7894697553519,
+    "country": "Madagascar"
+  },
+  {
+    "lng": 40.1501635602793,
+    "lat": 14.7694820114711,
+    "country": "Eritrea"
+  },
+  {
+    "lng": 12.2801648804153,
+    "lat": 32.6682905970123,
+    "country": "Libya"
+  },
+  {
+    "lng": 21.1742367862487,
+    "lat": 22.9155759418615,
+    "country": "Libya"
+  },
+  {
+    "lng": 20.9966110557575,
+    "lat": 30.4182146149843,
+    "country": "Libya"
+  },
+  {
+    "lng": 14.5579815546486,
+    "lat": 23.6412144650839,
+    "country": "Libya"
+  },
+  {
+    "lng": 9.59350138363649,
+    "lat": 26.016483977574,
+    "country": "Libya"
+  },
+  {
+    "lng": 24.7211307438194,
+    "lat": 26.6655597443309,
+    "country": "Libya"
+  },
+  {
+    "lng": 16.055722383645,
+    "lat": 28.7548519053722,
+    "country": "Libya"
+  },
+  {
+    "lng": -23.6639343667973,
+    "lat": 15.1766002738646,
+    "country": "Cabo Verde"
+  },
+  {
+    "lng": 23.0580345450621,
+    "lat": -30.2527049153983,
+    "country": "South Africa"
+  },
+  {
+    "lng": 30.8368793759571,
+    "lat": -29.0463238049154,
+    "country": "South Africa"
+  },
+  {
+    "lng": 27.884122402237,
+    "lat": -24.4840102433765,
+    "country": "South Africa"
+  },
+  {
+    "lng": 18.3777458813725,
+    "lat": -33.3123582445081,
+    "country": "South Africa"
+  },
+  {
+    "lng": 20.0758414758688,
+    "lat": -24.9510443209545,
+    "country": "South Africa"
+  },
+  {
+    "lng": 27.8257919505409,
+    "lat": -33.0393493479247,
+    "country": "South Africa"
+  },
+  {
+    "lng": 37.8706500798717,
+    "lat": -46.6331659561153,
+    "country": "South Africa"
+  },
+  {
+    "lng": 16.5359134812047,
+    "lat": -28.66229468038,
+    "country": "South Africa"
+  },
+  {
+    "lng": -20.2697281119161,
+    "lat": 65.7402746630772,
+    "country": "Iceland"
+  },
+  {
+    "lng": -15.0246673091482,
+    "lat": 64.3905643777736,
+    "country": "Iceland"
+  },
+  {
+    "lng": -7.66669339702719,
+    "lat": 4.98999561664452,
+    "country": "Liberia"
+  },
+  {
+    "lng": -15.1225638366793,
+    "lat": 22.8154493213376,
+    "country": "Morocco"
+  },
+  {
+    "lng": -4.37057978547834,
+    "lat": 31.6017312711391,
+    "country": "Morocco"
+  },
+  {
+    "lng": -10.6226520742973,
+    "lat": 27.6770710157668,
+    "country": "Morocco"
+  },
+  {
+    "lng": 67.400792255842,
+    "lat": 30.4024710670184,
+    "country": "Pakistan"
+  },
+  {
+    "lng": 63.2142688416599,
+    "lat": 25.3863237090603,
+    "country": "Pakistan"
+  },
+  {
+    "lng": 70.5276263662622,
+    "lat": 25.6342701316416,
+    "country": "Pakistan"
+  },
+  {
+    "lng": 73.6946172126643,
+    "lat": 35.5137168154747,
+    "country": "Pakistan"
+  },
+  {
+    "lng": 73.5253696831965,
+    "lat": 30.0299964266499,
+    "country": "Pakistan"
+  },
+  {
+    "lng": 118.777020668192,
+    "lat": 5.07999233424238,
+    "country": "Malaysia"
+  },
+  {
+    "lng": 103.951725460814,
+    "lat": 2.06662243188256,
+    "country": "Malaysia"
+  },
+  {
+    "lng": 113.433436873848,
+    "lat": 1.36826102988163,
+    "country": "Malaysia"
+  },
+  {
+    "lng": 100.52621170203,
+    "lat": 5.76232438307469,
+    "country": "Malaysia"
+  },
+  {
+    "lng": 12.1258070250415,
+    "lat": 55.8250994799304,
+    "country": "Denmark"
+  },
+  {
+    "lng": 9.73303658585237,
+    "lat": 32.1715264668967,
+    "country": "Tunisia"
+  },
+  {
+    "lng": 9.07090669155563,
+    "lat": 37.1549148420092,
+    "country": "Tunisia"
+  },
+  {
+    "lng": 42.8737141876999,
+    "lat": 23.4311698695896,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 47.5593673975778,
+    "lat": 18.4046704789966,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 49.1700101530355,
+    "lat": 24.7498475826914,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 53.9656085890362,
+    "lat": 21.9132231480291,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 37.7717020180288,
+    "lat": 29.0501031572121,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 43.5517675644024,
+    "lat": 29.8912920926491,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 42.0986873056811,
+    "lat": 18.4760659931528,
+    "country": "Saudi Arabia"
+  },
+  {
+    "lng": 90.0574261879031,
+    "lat": 24.0629035443101,
+    "country": "Bangladesh"
+  },
+  {
+    "lng": 127.607291324394,
+    "lat": 40.8821104521913,
+    "country": "North Korea"
+  },
+  {
+    "lng": 64.539831095637,
+    "lat": 36.362375930072,
+    "country": "Turkmenistan"
+  },
+  {
+    "lng": 58.0091476235235,
+    "lat": 40.9983278359641,
+    "country": "Turkmenistan"
+  },
+  {
+    "lng": 52.8660290490602,
+    "lat": 40.5245479413236,
+    "country": "Turkmenistan"
+  },
+  {
+    "lng": 17.5739376930704,
+    "lat": -13.8897487426461,
+    "country": "Angola"
+  },
+  {
+    "lng": 16.7291392821989,
+    "lat": -7.94581960868981,
+    "country": "Angola"
+  },
+  {
+    "lng": 21.3235829088164,
+    "lat": -10.3128657152877,
+    "country": "Angola"
+  },
+  {
+    "lng": 12.0898641961034,
+    "lat": -15.6976613162473,
+    "country": "Angola"
+  },
+  {
+    "lng": 12.283480576318,
+    "lat": -5.2473315902603,
+    "country": "Angola"
+  },
+  {
+    "lng": 22.9049805470436,
+    "lat": -17.5723417513588,
+    "country": "Angola"
+  },
+  {
+    "lng": -7.58040464405451,
+    "lat": 39.985776438187,
+    "country": "Portugal"
+  },
+  {
+    "lng": -25.4736534620019,
+    "lat": 37.7775632135135,
+    "country": "Portugal"
+  },
+  {
+    "lng": -31.1794153528355,
+    "lat": 39.4570840085416,
+    "country": "Portugal"
+  },
+  {
+    "lng": -16.3197628845718,
+    "lat": 33.0881243078146,
+    "country": "Portugal"
+  },
+  {
+    "lng": -65.4766211390413,
+    "lat": -37.2210111013673,
+    "country": "Argentina"
+  },
+  {
+    "lng": -67.8047663736539,
+    "lat": -49.7806941667785,
+    "country": "Argentina"
+  },
+  {
+    "lng": -68.4238323383721,
+    "lat": -42.8671338004902,
+    "country": "Argentina"
+  },
+  {
+    "lng": -65.2250805863528,
+    "lat": -22.7498827466654,
+    "country": "Argentina"
+  },
+  {
+    "lng": -66.5600737990905,
+    "lat": -28.4008511098706,
+    "country": "Argentina"
+  },
+  {
+    "lng": -61.6285318000005,
+    "lat": -32.4887239734339,
+    "country": "Argentina"
+  },
+  {
+    "lng": -58.9476776792529,
+    "lat": -38.2297251189742,
+    "country": "Argentina"
+  },
+  {
+    "lng": -55.5338756523336,
+    "lat": -27.5180291687866,
+    "country": "Argentina"
+  },
+  {
+    "lng": -61.3041859348193,
+    "lat": -26.9900068011487,
+    "country": "Argentina"
+  },
+  {
+    "lng": -68.8548043077655,
+    "lat": -33.4582094516445,
+    "country": "Argentina"
+  },
+  {
+    "lng": -72.8985587524257,
+    "lat": -50.4741117539803,
+    "country": "Argentina"
+  },
+  {
+    "lng": -70.698915044745,
+    "lat": -38.114382079261,
+    "country": "Argentina"
+  },
+  {
+    "lng": -66.6132374961927,
+    "lat": -54.8712520074894,
+    "country": "Argentina"
+  },
+  {
+    "lng": 166.199119642634,
+    "lat": -21.7479318263955,
+    "country": "New Caledonia"
+  },
+  {
+    "lng": -58.5622695816806,
+    "lat": 4.45425733975718,
+    "country": "Guyana"
+  },
+  {
+    "lng": 80.4190157227257,
+    "lat": 9.22574994556152,
+    "country": "Sri Lanka"
+  },
+  {
+    "lng": -68.9173599372874,
+    "lat": 12.1614793393082,
+    "country": "Curaçao"
+  },
+  {
+    "lng": -70.0295255634185,
+    "lat": 12.6077633460422,
+    "country": "Aruba"
+  },
+  {
+    "lng": 121.322602679721,
+    "lat": 23.5967174477148,
+    "country": "Taiwan"
+  },
+  {
+    "lng": -56.2839828016131,
+    "lat": 47.0016529805804,
+    "country": "St. Pierre and Miquelon"
+  },
+  {
+    "lng": -64.7180398107515,
+    "lat": 17.712314232546,
+    "country": "U.S. Virgin Is."
+  },
+  {
+    "lng": -62.8448485852113,
+    "lat": 17.9234580355724,
+    "country": "St-Barthélemy"
+  },
+  {
+    "lng": -66.5467975127074,
+    "lat": 18.334914939777,
+    "country": "Puerto Rico"
+  },
+  {
+    "lng": -79.9765397187201,
+    "lat": 19.7033858676873,
+    "country": "Cayman Is."
+  },
+  {
+    "lng": 73.537806576256,
+    "lat": -53.057732197866,
+    "country": "Heard I. and McDonald Is."
+  },
+  {
+    "lng": -5.66540796998518,
+    "lat": -15.9464691367203,
+    "country": "Saint Helena"
+  },
+  {
+    "lng": -14.3700249538935,
+    "lat": -7.92523046023147,
+    "country": "Saint Helena"
+  },
+  {
+    "lng": -12.2830350931887,
+    "lat": -37.0635680836075,
+    "country": "Saint Helena"
+  },
+  {
+    "lng": 43.3425377525223,
+    "lat": -11.8123171169839,
+    "country": "Comoros"
+  },
+  {
+    "lng": 6.61504217971583,
+    "lat": 0.330735795587658,
+    "country": "São Tomé and Principe"
+  },
+  {
+    "lng": -2.10615580264848,
+    "lat": 49.2536695207056,
+    "country": "Jersey"
+  },
+  {
+    "lng": -2.55318749426683,
+    "lat": 49.4656382498585,
+    "country": "Guernsey"
+  },
+  {
+    "lng": 167.968158077003,
+    "lat": -29.0248740649742,
+    "country": "Norfolk Island"
+  },
+  {
+    "lng": -178.072244789614,
+    "lat": -14.3133134408103,
+    "country": "Wallis and Futuna Is."
+  },
+  {
+    "lng": 159.684387262322,
+    "lat": -9.57434359891897,
+    "country": "Solomon Is."
+  },
+  {
+    "lng": 165.859385097437,
+    "lat": -10.7577605910478,
+    "country": "Solomon Is."
+  },
+  {
+    "lng": 125.280491330592,
+    "lat": -9.32605913633011,
+    "country": "Timor-Leste"
+  },
+  {
+    "lng": -36.8135307416014,
+    "lat": -54.2928619451728,
+    "country": "S. Geo. and the Is."
+  },
+  {
+    "lng": -27.1473353575832,
+    "lat": -56.6786582394956,
+    "country": "S. Geo. and the Is."
+  },
+  {
+    "lng": -42.0852206815793,
+    "lat": -53.4839101692603,
+    "country": "S. Geo. and the Is."
+  },
+  {
+    "lng": -58.8147911465567,
+    "lat": -51.5306513853908,
+    "country": "Falkland Is."
+  },
+  {
+    "lng": -169.874622127459,
+    "lat": -18.9754538055034,
+    "country": "Niue"
+  },
+  {
+    "lng": -170.811721051416,
+    "lat": -14.3135027313351,
+    "country": "American Samoa"
+  },
+  {
+    "lng": 144.889519375892,
+    "lat": 13.5734720352661,
+    "country": "Guam"
+  },
+  {
+    "lng": 145.165981579528,
+    "lat": 14.1357819152139,
+    "country": "N. Mariana Is."
+  },
+  {
+    "lng": 145.250712328189,
+    "lat": 20.0234315431313,
+    "country": "N. Mariana Is."
+  },
+  {
+    "lng": -55.5702511525232,
+    "lat": -33.9575736751407,
+    "country": "Uruguay"
+  },
+  {
+    "lng": -59.8962612277204,
+    "lat": -17.7634244382679,
+    "country": "Bolivia"
+  },
+  {
+    "lng": -65.9285591288027,
+    "lat": -11.2603430731333,
+    "country": "Bolivia"
+  },
+  {
+    "lng": -68.7005025547857,
+    "lat": -18.4654438831837,
+    "country": "Bolivia"
+  },
+  {
+    "lng": -64.3136684662172,
+    "lat": -21.3457395170927,
+    "country": "Bolivia"
+  },
+  {
+    "lng": 34.4961263776474,
+    "lat": 31.0341382324375,
+    "country": "Israel"
+  },
+  {
+    "lng": 35.208205127655,
+    "lat": 32.4372379723072,
+    "country": "Palestine"
+  },
+  {
+    "lng": 91.1980650660297,
+    "lat": 26.8308225669059,
+    "country": "Bhutan"
+  },
+  {
+    "lng": 25.8742265224654,
+    "lat": 53.2444085907243,
+    "country": "Belarus"
+  },
+  {
+    "lng": 30.9277004057263,
+    "lat": 55.1330082074008,
+    "country": "Belarus"
+  },
+  {
+    "lng": -63.021103073673,
+    "lat": 18.0490234311317,
+    "country": "St-Martin"
+  },
+  {
+    "lng": -63.068363905468,
+    "lat": 18.0333663537887,
+    "country": "Sint Maarten"
+  },
+  {
+    "lng": 103.140531682702,
+    "lat": 44.6476469548192,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 94.5074759635072,
+    "lat": 47.4765630865001,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 108.993179909496,
+    "lat": 46.7102414701202,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 98.3732677863428,
+    "lat": 51.6593635651987,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 116.300808487009,
+    "lat": 46.7452018192535,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 89.5357261576601,
+    "lat": 49.6543306852397,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 103.648319394674,
+    "lat": 50.0678541584959,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 97.1636787021047,
+    "lat": 43.0540966841127,
+    "country": "Mongolia"
+  },
+  {
+    "lng": 6.37439883098296,
+    "lat": 49.7826070783997,
+    "country": "Luxembourg"
+  },
+  {
+    "lng": 104.440605465695,
+    "lat": 20.4009273393763,
+    "country": "Laos"
+  },
+  {
+    "lng": 106.407026899158,
+    "lat": 14.7696626496918,
+    "country": "Laos"
+  },
+  {
+    "lng": 76.38862623796,
+    "lat": 42.2214932397314,
+    "country": "Kyrgyzstan"
+  },
+  {
+    "lng": 69.8072246180359,
+    "lat": 40.0274075939659,
+    "country": "Kyrgyzstan"
+  },
+  {
+    "lng": 17.9270426789181,
+    "lat": 54.248273692427,
+    "country": "Poland"
+  },
+  {
+    "lng": 21.8091558147992,
+    "lat": 50.8142833173928,
+    "country": "Poland"
+  },
+  {
+    "lng": 67.9016704186403,
+    "lat": 37.4245055996079,
+    "country": "Tajikistan"
+  },
+  {
+    "lng": 73.0378777771864,
+    "lat": 39.2250091506347,
+    "country": "Tajikistan"
+  },
+  {
+    "lng": -4.96753577987642,
+    "lat": 13.4902232771596,
+    "country": "Mali"
+  },
+  {
+    "lng": 1.35820785811245,
+    "lat": 16.8880229369552,
+    "country": "Mali"
+  },
+  {
+    "lng": -11.7654939732783,
+    "lat": 13.55886370714,
+    "country": "Mali"
+  },
+  {
+    "lng": -2.27692357712621,
+    "lat": 21.3030003468374,
+    "country": "Mali"
+  },
+  {
+    "lng": -6.49062451366839,
+    "lat": 24.3281015762852,
+    "country": "Mali"
+  },
+  {
+    "lng": 29.1724712581026,
+    "lat": -19.1209415511995,
+    "country": "Zimbabwe"
+  },
+  {
+    "lng": 114.751475286429,
+    "lat": 4.46161408676599,
+    "country": "Brunei"
+  },
+  {
+    "lng": 7.4233177415284,
+    "lat": 43.7398957949852,
+    "country": "Monaco"
+  },
+  {
+    "lng": 31.1952574451573,
+    "lat": -26.8112738204636,
+    "country": "eSwatini"
+  },
+  {
+    "lng": -56.5882714499825,
+    "lat": 3.75434580978587,
+    "country": "Suriname"
+  },
+  {
+    "lng": -56.7253340266212,
+    "lat": -23.9011290938275,
+    "country": "Paraguay"
+  },
+  {
+    "lng": -61.2957211187013,
+    "lat": -20.9872774072629,
+    "country": "Paraguay"
+  },
+  {
+    "lng": 86.0562223983845,
+    "lat": 27.4880794972567,
+    "country": "Nepal"
+  },
+  {
+    "lng": 81.0797785796625,
+    "lat": 29.941132929145,
+    "country": "Nepal"
+  },
+  {
+    "lng": 28.7259276705902,
+    "lat": -29.3258383740137,
+    "country": "Lesotho"
+  },
+  {
+    "lng": 9.78637124170122,
+    "lat": 14.1859038556335,
+    "country": "Niger"
+  },
+  {
+    "lng": 15.6023146753445,
+    "lat": 20.7117349871301,
+    "country": "Niger"
+  },
+  {
+    "lng": 2.17769174832747,
+    "lat": 12.2574330277195,
+    "country": "Niger"
+  },
+  {
+    "lng": 8.43810927605155,
+    "lat": 20.3925874785678,
+    "country": "Niger"
+  },
+  {
+    "lng": 5.26513457800815,
+    "lat": 16.3250305064432,
+    "country": "Niger"
+  },
+  {
+    "lng": -12.869854685894,
+    "lat": 23.3217917183632,
+    "country": "W. Sahara"
+  },
+  {
+    "lng": -9.35358419459058,
+    "lat": 26.8881318870387,
+    "country": "W. Sahara"
+  },
+  {
+    "lng": -62.1718798966792,
+    "lat": 16.7240613330199,
+    "country": "Montserrat"
+  }
+]

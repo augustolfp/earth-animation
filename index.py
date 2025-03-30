@@ -17,7 +17,7 @@ def convertToSphericalCoordinates(coordinate):
         "rho": 60 # Earth radius, any value will work
     }
 
-sphericalCoordinates = list(map(convertToSphericalCoordinates, data["customCoordinates"]))
+sphericalCoordinates = list(map(convertToSphericalCoordinates, data))
 
 def convertSphericalToCartesianCoordinates(coordinate):
     return {
@@ -31,14 +31,16 @@ cartesianCoordinates = list(map(convertSphericalToCartesianCoordinates, spherica
 # Creating figure
 fig = plt.figure(figsize = (10, 7))
 ax = plt.axes(projection ="3d")
+ax.set_aspect('equal', adjustable='box')
 
 x = list(map(lambda obj: obj["x"], cartesianCoordinates))
 y = list(map(lambda obj: obj["y"], cartesianCoordinates))
 z = list(map(lambda obj: obj["z"], cartesianCoordinates))
 
 # Creating plot
-ax.scatter3D(x, y, z, color = "green")
-plt.title("simple 3D scatter plot")
+ax.scatter3D(x, y, z, color = "green", marker=".")
+plt.title("Nosso Planetinha")
+plt.axis("off")
  
 # show plot
 plt.show()
